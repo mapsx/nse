@@ -105,16 +105,50 @@ def comparison_rows(payload):
         })
     return out
 
-def latest_xbrl(filings):
-    if not isinstance(filings, list):
+def normalize_filings(payload):
+    if isinstance(payload, list):
+        return payload
+    if isinstance(payload, dict):
+        for key in ("data", "financialResults", "financial_results"):
+            value = payload.get(key)
+            if isinstance(value, list):
+                return value
+    return []
+
+def filing_date(item):
+    if not isinstance(item, dict):
         return None
-    def key(x):
-        return str(x.get("toDate") or x.get("periodEnded") or x.get("filingDate") or "")
-    for item in sorted(filings, key=key, reverse=True):
-        if isinstance(item, dict):
-            for k in ("xbrl", "xbrlUrl", "xbrlURL", "xbrl_link"):
-                if item.get(k):
-                    return item[k]
+    return (
+        item.get("re_broadcast_timestamp")
+        or item.get("broadcastDate")
+        or item.get("broadcastdate")
+        or item.get("broadcast_date")
+        or item.get("filingDate")
+        or item.get("filing_date")
+    )
+
+def latest_filing(filings):
+    filings = normalize_filings(filings)
+    if not filings:
+        return None
+    return sorted(
+        [x for x in filings if isinstance(x, dict)],
+        key=lambda x: str(
+            filing_date(x)
+            or x.get("toDate")
+            or x.get("periodEnded")
+            or ""
+        ),
+        reverse=True
+    )[0] if filings else None
+
+def latest_xbrl(filings):
+    item = latest_filing(filings)
+    if not item:
+        return None
+    for k in ("xbrl", "xbrlUrl", "xbrlURL", "xbrl_link", "xbrl_attachment"):
+        if item.get(k):
+            return item[k]
     return None
 
 def xbrl_enrichment(url, nse):
@@ -200,28 +234,70 @@ with NSE(download_folder=CACHE, server=True, timeout=30) as nse:
 
         for attempt in range(RETRIES):
             try:
-                cmp = nse.results_comparison(symbol)
-                periods = comparison_rows(cmp)
+                # Use NSE Financial Results filings as the PRIMARY source.
+                # This is important because a result filed in August 2026
+                # has a reporting period of 30-Jun-2026.
+                filings_payload = nse.financial_results(
+                    segment="equities",
+                    period="quarterly",
+                    symbol=symbol,
+                    from_date=datetime.now() - timedelta(days=120),
+                    to_date=datetime.now(),
+                )
+                filings = normalize_filings(filings_payload)
+                lf = latest_filing(filings)
 
-                # Financial Results metadata is supplementary.
-                try:
-                    filings = nse.financial_results(
-                        segment="equities",
-                        period="quarterly",
-                        symbol=symbol,
-                        from_date=datetime.now() - timedelta(days=370),
-                        to_date=datetime.now()
-                    )
+                periods = []
+                if lf:
+                    period_end = pick(lf, [
+                        "to_date", "toDate", "periodEnded", "period_end",
+                        "re_to_dt", "re_to_date"
+                    ])
+                    broadcast = filing_date(lf)
+
+                    primary = {
+                        "period_end": period_end,
+                        "broadcast_date": broadcast,
+                        "sales_lakh": num(pick(lf, [
+                            "income", "re_total_inc", "re_total_income",
+                            "re_revenue", "totalIncome"
+                        ])),
+                        "net_profit_lakh": num(pick(lf, [
+                            "proLossAftTax", "re_net_profit",
+                            "re_profit_after_tax", "re_pat", "netProfit"
+                        ])),
+                        "eps": num(pick(lf, [
+                            "reDilEPS", "re_eps", "re_diluted_eps",
+                            "re_basic_eps", "eps"
+                        ])),
+                        "tax_lakh": num(pick(lf, [
+                            "re_tax", "re_tax_expense", "tax", "taxExpense"
+                        ])),
+                        "other_income_lakh": num(pick(lf, [
+                            "re_other_income", "other_income", "otherIncome"
+                        ])),
+                    }
+                    periods.append(primary)
+
+                    if broadcast:
+                        rec["broadcast_date"] = broadcast
+                    if lf.get("consolidated") is not None:
+                        rec["consolidated"] = lf.get("consolidated")
+                    if lf.get("audited") is not None:
+                        rec["audited"] = lf.get("audited")
+
                     xurl = latest_xbrl(filings)
                     if xurl:
                         rec["xbrl_url"] = xurl
-                        if periods:
-                            enrichment = xbrl_enrichment(xurl, nse)
-                            for k, v in enrichment.items():
-                                if periods[0].get(k) is None:
-                                    periods[0][k] = v
-                except Exception as e:
-                    rec["filing_error"] = str(e)
+                        enrichment = xbrl_enrichment(xurl, nse)
+                        for k, v in enrichment.items():
+                            if periods[0].get(k) is None:
+                                periods[0][k] = v
+
+                # Fallback to Results Comparison if no filing row was returned.
+                if not periods:
+                    cmp = nse.results_comparison(symbol)
+                    periods = comparison_rows(cmp)
 
                 rec["periods"] = periods
                 rec["status"] = "ok"
