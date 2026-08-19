@@ -19,8 +19,7 @@ header{background:#101827;color:#fff;padding:22px 26px}h1{margin:0;font-size:26p
 <div class="info">This dashboard never contacts NSE. GitHub Actions fetches NSE data automatically and the website reads the latest JSON. No PHP, cURL, MySQL or CORS proxy is required.</div>
 <div id="alert" class="alert">Loading automatic NSE results...</div>
 <div class="toolbar">
-<select id="period"><option value="">Latest available</option></select>
-<input id="search" placeholder="Search company / symbol">
+<label style="display:flex;align-items:center;gap:7px;font-weight:600">Filing Month: <input id="periodMonth" type="month" title="Select result month and year"></label><button id="currentMonth" type="button">Current Month</button><button id="allMonths" type="button">All Months</button><input id="search" placeholder="Search company / symbol">
 <select id="industry"><option value="">All industries</option></select>
 <select id="filter"><option value="all">All companies</option><option value="data">Results available</option><option value="nodata">No result data</option></select>
 <span id="status" class="muted">Loading...</span>
@@ -47,14 +46,17 @@ const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
 const num=v=>v==null||v===""?"—":Number(v).toLocaleString("en-IN",{maximumFractionDigits:2});
 function pct(a,b){if(a==null||b==null||Number(b)===0)return"";let g=(a-b)/Math.abs(b)*100;return`<div class="change ${g>=0?"up":"down"}">${g>=0?"▲":"▼"} ${Math.abs(g).toFixed(2)}%</div>`}
+function monthKey(v){
+ if(!v)return "";let s=String(v).trim(),m=s.match(/^(\d{4})-(\d{2})/);if(m)return m[1]+"-"+m[2];
+ m=s.match(/^(\d{1,2})[-\/]([A-Za-z]{3})[-\/](\d{4})$/i);if(m){const months={JAN:"01",FEB:"02",MAR:"03",APR:"04",MAY:"05",JUN:"06",JUL:"07",AUG:"08",SEP:"09",OCT:"10",NOV:"11",DEC:"12"};return m[3]+"-"+(months[m[2].toUpperCase()]||"");}
+ m=s.match(/^(\d{1,2})[-\/](\d{1,2})[-\/](\d{4})$/);if(m)return m[3]+"-"+String(m[2]).padStart(2,"0");return "";
+}
 function filters(){
  let inds=[...new Set(COMPANIES.map(x=>x.industry).filter(Boolean))].sort();
  $("industry").innerHTML='<option value="">All industries</option>'+inds.map(x=>`<option>${esc(x)}</option>`).join("");
- let ps=new Set();Object.values(results).forEach(r=>(r.periods||[]).forEach(p=>p.period_end&&ps.add(p.period_end)));
- $("period").innerHTML='<option value="">Latest available</option>'+[...ps].sort().reverse().map(x=>`<option>${esc(x)}</option>`).join("");
 }
 function render(){
- let q=$("search").value.toLowerCase().trim(),ind=$("industry").value,w=$("period").value,mode=$("filter").value;
+ let q=$("search").value.toLowerCase().trim(),ind=$("industry").value,w=$("periodMonth").value,mode=$("filter").value;
  let rows=[],profit=0,up=0,down=0;
  COMPANIES.forEach(c=>{
    if(q&&!(`${c.company} ${c.symbol}`.toLowerCase().includes(q)))return;
@@ -62,15 +64,16 @@ function render(){
    let r=results[c.symbol]||null,has=!!(r&&(r.periods||[]).length);
    if(mode==="data"&&!has)return;if(mode==="nodata"&&has)return;
    let p=null,prev=null;
-   if(has){let ps=r.periods||[],i=w?ps.findIndex(x=>x.period_end===w):0;if(i<0)return;p=ps[i];prev=ps[i+1]||null}
+   if(has){let ps=r.periods||[],i=0;if(w){i=ps.findIndex(x=>monthKey(r.broadcast_date||x.broadcast_date)===w);if(i<0)return}p=ps[i];prev=ps[i+1]||null}
    rows.push({c,r,p,prev});
    if(p?.net_profit_lakh!=null)profit+=+p.net_profit_lakh;
    if(prev&&p?.net_profit_lakh!=null&&prev.net_profit_lakh!=null){((p.net_profit_lakh-prev.net_profit_lakh)/Math.abs(prev.net_profit_lakh)*100)>=0?up++:down++}
  });
- $("count").textContent=rows.length;$("loaded").textContent=Object.keys(results).length;$("profit").textContent=profit?"₹"+num(profit)+" lakh":"—";$("up").textContent=up;$("down").textContent=down;
+ $("count").textContent=rows.length;
+$("loaded").textContent=rows.filter(x=>!!x.p).length;$("profit").textContent=profit?"₹"+num(profit)+" lakh":"—";$("up").textContent=up;$("down").textContent=down;
  $("tbody").innerHTML=rows.map(({c,r,p,prev})=>p?`<tr>
  <td>${c.sl}</td><td><div class="company">${esc(c.company)}</div><div class="symbol">${esc(c.symbol)}</div></td><td><span class="badge">${esc(c.industry)}</span></td><td>${esc(p.period_end||"—")}</td>
- <td>₹${num(p.net_profit_lakh)} ${prev?pct(p.net_profit_lakh,prev.net_profit_lakh):""}</td><td>₹${num(p.sales_lakh)}</td><td>${num(p.eps)}</td><td>${p.tax_lakh==null?"—":"₹"+num(p.tax_lakh)}</td><td>${p.other_income_lakh==null?"—":"₹"+num(p.other_income_lakh)}</td><td>${prev?pct(p.net_profit_lakh,prev.net_profit_lakh):"—"}</td><td><a target="_blank" href="${esc(r.source_url)}">NSE</a>${r.xbrl_url?` · <a target="_blank" href="${esc(r.xbrl_url)}">XBRL</a>`:""}</td>
+ <td>₹${num(p.net_profit_lakh)} ${prev?pct(p.net_profit_lakh,prev.net_profit_lakh):""}</td><td>₹${num(p.sales_lakh)}</td><td>${num(p.eps)}</td><td>${p.tax_lakh==null?"—":"₹"+num(p.tax_lakh)}</td><td>${p.other_income_lakh==null?"—":"₹"+num(p.other_income_lakh)}</td><td>${prev?pct(p.net_profit_lakh,prev.net_profit_lakh):"—"}</td><td><a target="_blank" href="${esc(r.source_url)}">NSE</a>${r.xbrl_url?` · <a target="_blank" href="${esc(r.xbrl_url)}">XBRL</a>`:""}${r.broadcast_date?`<div class="change muted">Filed: ${esc(r.broadcast_date)}</div>`:""}</td>
  </tr>`:`<tr><td>${c.sl}</td><td><div class="company">${esc(c.company)}</div><div class="symbol">${esc(c.symbol)}</div></td><td><span class="badge">${esc(c.industry)}</span></td><td class="na">Waiting</td><td class="na">—</td><td class="na">—</td><td class="na">—</td><td class="na">—</td><td class="na">—</td><td class="na">—</td><td class="muted">No NSE result loaded</td></tr>`).join("");
 }
 async function load(){
@@ -83,6 +86,9 @@ async function load(){
   $("status").textContent="Automatic NSE data connected";
  }catch(e){$("alert").innerHTML="<b>Data connection error:</b> "+esc(e.message)+" — the GitHub Action may not have completed its first run yet.";filters();render();$("status").textContent="500 companies ready • waiting for data";}
 }
-$("search").oninput=render;$("industry").onchange=render;$("period").onchange=render;$("filter").onchange=render;
+$("search").oninput=render;$("industry").onchange=render;$("periodMonth").onchange=render;$("filter").onchange=render;
+$("currentMonth").onclick=()=>{const d=new Date();$("periodMonth").value=d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0");render();};
+$("allMonths").onclick=()=>{$("periodMonth").value="";render();};
+(()=>{const d=new Date();$("periodMonth").value=d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0");})();
 filters();render();load();
 </script></body></html>
