@@ -8,12 +8,12 @@ from nse import NSE
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
-COMPANIES_FILE = DATA / "companies.json"
+DATA.mkdir(parents=True, exist_ok=True)
 RESULTS_FILE = DATA / "results.json"
 CACHE = ROOT / ".nse_cache"
 CACHE.mkdir(exist_ok=True)
 
-SLEEP_SECONDS = 0.65
+SLEEP_SECONDS = 0.75
 RETRIES = 3
 
 def num(v):
@@ -29,9 +29,54 @@ def num(v):
 
 def pick(row, keys):
     for k in keys:
-        if k in row and row[k] not in (None, "", "-"):
+        if isinstance(row, dict) and k in row and row[k] not in (None, "", "-"):
             return row[k]
     return None
+
+def bootstrap_companies(nse):
+    """
+    Do not require data/companies.json to already exist.
+    GitHub Actions can create the Nifty 500 master directly from NSE.
+    """
+    print("Loading current NIFTY 500 constituents from NSE...", flush=True)
+    payload = nse.listEquityStocksByIndex(index="NIFTY 500")
+    rows = payload.get("data", []) if isinstance(payload, dict) else []
+
+    if not rows:
+        raise RuntimeError("NSE returned no NIFTY 500 constituents")
+
+    companies = []
+    for i, row in enumerate(rows, 1):
+        symbol = pick(row, ["symbol", "Symbol"])
+        name = pick(row, ["companyName", "companyname", "Company Name", "meta", "name"]) or symbol
+        industry = pick(row, ["industry", "Industry"]) or ""
+        isin = pick(row, ["isin", "ISIN", "isinCode"]) or ""
+        if symbol:
+            companies.append({
+                "sl": i,
+                "company": str(name).strip(),
+                "industry": str(industry).strip(),
+                "symbol": str(symbol).strip(),
+                "isin": str(isin).strip()
+            })
+
+    if len(companies) < 450:
+        raise RuntimeError(f"NSE NIFTY 500 response unexpectedly contains only {len(companies)} stocks")
+
+    (DATA / "companies.json").write_text(
+        json.dumps(companies, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+    print(f"Created data/companies.json with {len(companies)} companies", flush=True)
+    return companies
+
+def load_old():
+    if not RESULTS_FILE.exists():
+        return {}
+    try:
+        return json.loads(RESULTS_FILE.read_text(encoding="utf-8")).get("results", {})
+    except Exception:
+        return {}
 
 def comparison_rows(payload):
     rows = payload.get("resCmpData") or payload.get("data") or []
@@ -51,7 +96,6 @@ def comparison_rows(payload):
             "eps": num(pick(row, [
                 "re_eps", "re_diluted_eps", "re_basic_eps", "eps"
             ])),
-            # Some NSE response variants expose these directly.
             "tax_lakh": num(pick(row, [
                 "re_tax", "re_tax_expense", "tax", "taxExpense"
             ])),
@@ -61,22 +105,28 @@ def comparison_rows(payload):
         })
     return out
 
-def xml_enrichment(url, nse):
-    """
-    Best-effort XBRL enrichment.
-    NSE's financial-results metadata can include an XBRL URL.
-    Tax/other-income fields are not guaranteed by results_comparison(),
-    so they are filled only when an XBRL document exposes a matching fact.
-    """
+def latest_xbrl(filings):
+    if not isinstance(filings, list):
+        return None
+    def key(x):
+        return str(x.get("toDate") or x.get("periodEnded") or x.get("filingDate") or "")
+    for item in sorted(filings, key=key, reverse=True):
+        if isinstance(item, dict):
+            for k in ("xbrl", "xbrlUrl", "xbrlURL", "xbrl_link"):
+                if item.get(k):
+                    return item[k]
+    return None
+
+def xbrl_enrichment(url, nse):
     if not url:
         return {}
     try:
         path = nse.download_document(url, folder=CACHE)
         raw = Path(path).read_text(encoding="utf-8", errors="ignore")
-    except Exception:
+    except Exception as e:
+        print(f"    XBRL skipped: {e}", flush=True)
         return {}
 
-    # Strip namespaces and inspect XBRL fact tags.
     text = re.sub(r"<[^>]+>", " ", raw)
     text = re.sub(r"\s+", " ", text)
 
@@ -87,7 +137,7 @@ def xml_enrichment(url, nse):
         m = re.search(pattern, text, re.I)
         if not m:
             return None
-        v = m.group(1).replace(",", "").strip()
+        v = m.group(1).replace(",", "")
         neg = v.startswith("(") and v.endswith(")")
         v = v.strip("()")
         try:
@@ -97,116 +147,102 @@ def xml_enrichment(url, nse):
             return None
 
     out = {}
-    out["tax_lakh"] = find_amount([
-        "TaxExpense", "IncomeTaxExpense", "CurrentTax", "TaxExpenseCurrent"
-    ])
-    out["other_income_lakh"] = find_amount([
-        "OtherIncome", "OtherIncomeFromOperations", "OtherIncomeExpense"
-    ])
-    return {k:v for k,v in out.items() if v is not None}
+    tax = find_amount(["TaxExpense", "IncomeTaxExpense", "CurrentTax", "TaxExpenseCurrent"])
+    other = find_amount(["OtherIncome", "OtherIncomeFromOperations", "OtherIncomeExpense"])
+    if tax is not None:
+        out["tax_lakh"] = tax
+    if other is not None:
+        out["other_income_lakh"] = other
+    return out
 
-def latest_xbrl(filings):
-    if not filings:
-        return None
-    # Prefer filings whose period end is newest.
-    def key(x):
-        return str(x.get("toDate") or x.get("periodEnded") or x.get("filingDate") or "")
-    ordered = sorted(filings, key=key, reverse=True)
-    for item in ordered:
-        for k in ("xbrl", "xbrlUrl", "xbrlURL", "xbrl_link"):
-            if item.get(k):
-                return item[k]
-    return None
-
-def load_old():
-    if not RESULTS_FILE.exists():
-        return {}
-    try:
-        return json.loads(RESULTS_FILE.read_text(encoding="utf-8")).get("results", {})
-    except Exception:
-        return {}
-
-companies = json.loads(COMPANIES_FILE.read_text(encoding="utf-8"))
 old = load_old()
 results = {}
 ok = 0
 failed = 0
 
-print(f"Starting NSE update for {len(companies)} companies", flush=True)
+print("Starting automatic NSE Nifty 500 update", flush=True)
 
-# server=True uses httpx/http2 as recommended for cloud/server environments.
 with NSE(download_folder=CACHE, server=True, timeout=30) as nse:
+    # THIS fixes the current GitHub error:
+    # data/companies.json is generated automatically if missing.
+    companies_file = DATA / "companies.json"
+    if companies_file.exists():
+        try:
+            companies = json.loads(companies_file.read_text(encoding="utf-8"))
+            if len(companies) < 450:
+                companies = bootstrap_companies(nse)
+        except Exception:
+            companies = bootstrap_companies(nse)
+    else:
+        companies = bootstrap_companies(nse)
+
+    total = len(companies)
+    print(f"Updating {total} companies", flush=True)
+
     for i, company in enumerate(companies, 1):
         symbol = company["symbol"]
         previous = old.get(symbol, {})
+
         rec = {
             "sl": company["sl"],
             "company": company["company"],
-            "industry": company["industry"],
+            "industry": company.get("industry", ""),
             "symbol": symbol,
-            "isin": company["isin"],
+            "isin": company.get("isin", ""),
             "status": "error",
             "periods": previous.get("periods", []),
             "source": "NSE India",
             "source_url": f"https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol={symbol}&tabIndex=equity",
-            "fetched_at": datetime.now(timezone.utc).isoformat(),
+            "fetched_at": datetime.now(timezone.utc).isoformat()
         }
 
         success = False
+
         for attempt in range(RETRIES):
             try:
                 cmp = nse.results_comparison(symbol)
                 periods = comparison_rows(cmp)
 
-                # Filing metadata is used for XBRL/source details.
-                xurl = None
+                # Financial Results metadata is supplementary.
                 try:
                     filings = nse.financial_results(
                         segment="equities",
                         period="quarterly",
                         symbol=symbol,
                         from_date=datetime.now() - timedelta(days=370),
-                        to_date=datetime.now(),
+                        to_date=datetime.now()
                     )
                     xurl = latest_xbrl(filings)
-                except Exception as filing_error:
-                    rec["filing_error"] = str(filing_error)
-
-                if xurl:
-                    rec["xbrl_url"] = xurl
-                    enrichment = xml_enrichment(xurl, nse)
-                    if periods:
-                        # Only enrich latest row and never overwrite a value
-                        # already returned by NSE comparison.
-                        for k, v in enrichment.items():
-                            if periods[0].get(k) is None:
-                                periods[0][k] = v
+                    if xurl:
+                        rec["xbrl_url"] = xurl
+                        if periods:
+                            enrichment = xbrl_enrichment(xurl, nse)
+                            for k, v in enrichment.items():
+                                if periods[0].get(k) is None:
+                                    periods[0][k] = v
+                except Exception as e:
+                    rec["filing_error"] = str(e)
 
                 rec["periods"] = periods
                 rec["status"] = "ok"
                 success = True
                 ok += 1
                 break
+
             except Exception as e:
                 rec["error"] = str(e)
-                time.sleep(2 + attempt * 2)
+                if attempt < RETRIES - 1:
+                    time.sleep(2 + attempt * 2)
 
         if not success:
             failed += 1
-            # Preserve last known good result rather than deleting it.
             if previous:
                 rec = previous.copy()
                 rec["status"] = "stale"
                 rec["fetched_at"] = datetime.now(timezone.utc).isoformat()
 
         results[symbol] = rec
-
-        print(
-            f"[{i:03d}/{len(companies)}] {symbol:<15} {rec['status']}",
-            flush=True
-        )
-
-        # Stay below the package's documented NSE request throttling guidance.
+        print(f"[{i}/{total}] {symbol}: {rec['status']}", flush=True)
         time.sleep(SLEEP_SECONDS)
 
 payload = {
@@ -214,11 +250,11 @@ payload = {
     "source": "NSE India",
     "count": len(results),
     "results": results,
-    "stats": {"ok": ok, "failed": failed},
+    "stats": {"ok": ok, "failed": failed}
 }
 
 tmp = RESULTS_FILE.with_suffix(".tmp")
 tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 tmp.replace(RESULTS_FILE)
 
-print(f"Completed: {ok} successful, {failed} failed", flush=True)
+print(f"FINISHED: {ok} successful, {failed} failed", flush=True)
