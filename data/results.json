@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T13:35:32.686934+00:00",
+  "updated_at": "2026-09-29T22:56:38.337453+00:00",
   "source": "NSE India",
   "count": 501,
   "results": {
@@ -13,7 +13,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NIFTY 500&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:27.128892+00:00"
+      "fetched_at": "2026-09-29T22:20:50.021552+00:00"
     },
     "BSE": {
       "sl": 2,
@@ -66,7 +66,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BSE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:29.539313+00:00"
+      "fetched_at": "2026-09-29T22:20:52.187788+00:00"
     },
     "HDFCBANK": {
       "sl": 3,
@@ -119,7 +119,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HDFCBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:31.453487+00:00"
+      "fetched_at": "2026-09-29T22:20:55.080004+00:00"
     },
     "RELIANCE": {
       "sl": 4,
@@ -172,7 +172,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RELIANCE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:32.960000+00:00"
+      "fetched_at": "2026-09-29T22:20:57.095716+00:00"
     },
     "WIPRO": {
       "sl": 5,
@@ -225,7 +225,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=WIPRO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:35.815502+00:00"
+      "fetched_at": "2026-09-29T22:20:59.583242+00:00"
     },
     "SBIN": {
       "sl": 6,
@@ -278,7 +278,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SBIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:38.496264+00:00"
+      "fetched_at": "2026-09-29T22:21:02.147869+00:00"
     },
     "POLICYBZR": {
       "sl": 7,
@@ -331,7 +331,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=POLICYBZR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:40.408708+00:00"
+      "fetched_at": "2026-09-29T22:21:04.206840+00:00"
     },
     "ICICIBANK": {
       "sl": 8,
@@ -384,7 +384,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ICICIBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:42.922617+00:00"
+      "fetched_at": "2026-09-29T22:21:06.600484+00:00"
     },
     "INDHOTEL": {
       "sl": 9,
@@ -437,7 +437,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INDHOTEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:44.869268+00:00"
+      "fetched_at": "2026-09-29T22:21:09.072998+00:00"
     },
     "BHARTIARTL": {
       "sl": 10,
@@ -490,7 +490,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BHARTIARTL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:46.926657+00:00"
+      "fetched_at": "2026-09-29T22:21:11.049159+00:00"
     },
     "IDEA": {
       "sl": 11,
@@ -543,7 +543,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IDEA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:49.898621+00:00"
+      "fetched_at": "2026-09-29T22:21:13.590591+00:00"
     },
     "POLYCAB": {
       "sl": 12,
@@ -596,7 +596,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=POLYCAB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:51.843484+00:00"
+      "fetched_at": "2026-09-29T22:21:16.181125+00:00"
     },
     "KOTAKBANK": {
       "sl": 13,
@@ -649,7 +649,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KOTAKBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:53.183697+00:00"
+      "fetched_at": "2026-09-29T22:21:18.354631+00:00"
     },
     "INFY": {
       "sl": 14,
@@ -702,7 +702,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INFY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:55.791578+00:00"
+      "fetched_at": "2026-09-29T22:21:20.694391+00:00"
     },
     "KIRLOSENG": {
       "sl": 15,
@@ -755,7 +755,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KIRLOSENG&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:58.488243+00:00"
+      "fetched_at": "2026-09-29T22:21:23.160436+00:00"
     },
     "UNITDSPR": {
       "sl": 16,
@@ -808,7 +808,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=UNITDSPR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:00:59.772828+00:00"
+      "fetched_at": "2026-09-29T22:21:25.465347+00:00"
     },
     "ADANIENT": {
       "sl": 17,
@@ -861,7 +861,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ADANIENT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:01.893763+00:00"
+      "fetched_at": "2026-09-29T22:21:28.569033+00:00"
     },
     "POWERINDIA": {
       "sl": 18,
@@ -914,7 +914,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=POWERINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:04.483274+00:00"
+      "fetched_at": "2026-09-29T22:21:31.162756+00:00"
     },
     "RECLTD": {
       "sl": 19,
@@ -926,7 +926,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RECLTD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:06.672010+00:00"
+      "fetched_at": "2026-09-29T22:21:33.280675+00:00"
     },
     "ETERNAL": {
       "sl": 20,
@@ -979,7 +979,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ETERNAL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:08.273502+00:00"
+      "fetched_at": "2026-09-29T22:21:35.199611+00:00"
     },
     "SHREECEM": {
       "sl": 21,
@@ -1032,7 +1032,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SHREECEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:10.567991+00:00"
+      "fetched_at": "2026-09-29T22:21:38.204754+00:00"
     },
     "M&M": {
       "sl": 22,
@@ -1085,7 +1085,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=M&M&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:11.888966+00:00"
+      "fetched_at": "2026-09-29T22:21:40.141470+00:00"
     },
     "LT": {
       "sl": 23,
@@ -1138,7 +1138,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:15.285516+00:00"
+      "fetched_at": "2026-09-29T22:21:42.469501+00:00"
     },
     "HONASA": {
       "sl": 24,
@@ -1150,7 +1150,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HONASA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:17.534961+00:00"
+      "fetched_at": "2026-09-29T22:21:45.229201+00:00"
     },
     "TCS": {
       "sl": 25,
@@ -1203,7 +1203,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TCS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:19.340176+00:00"
+      "fetched_at": "2026-09-29T22:21:46.952639+00:00"
     },
     "LODHA": {
       "sl": 26,
@@ -1256,7 +1256,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LODHA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:21.839939+00:00"
+      "fetched_at": "2026-09-29T22:21:49.490792+00:00"
     },
     "AXISBANK": {
       "sl": 27,
@@ -1309,7 +1309,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AXISBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:24.451609+00:00"
+      "fetched_at": "2026-09-29T22:21:52.495936+00:00"
     },
     "WELCORP": {
       "sl": 28,
@@ -1362,7 +1362,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=WELCORP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:26.376364+00:00"
+      "fetched_at": "2026-09-29T22:21:54.561741+00:00"
     },
     "BAJFINANCE": {
       "sl": 29,
@@ -1415,7 +1415,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BAJFINANCE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:28.907938+00:00"
+      "fetched_at": "2026-09-29T22:21:57.336562+00:00"
     },
     "ATHERENERG": {
       "sl": 30,
@@ -1427,7 +1427,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ATHERENERG&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:31.470117+00:00"
+      "fetched_at": "2026-09-29T22:22:00.096864+00:00"
     },
     "ADANIPORTS": {
       "sl": 31,
@@ -1480,7 +1480,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ADANIPORTS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:32.823329+00:00"
+      "fetched_at": "2026-09-29T22:22:02.161642+00:00"
     },
     "MCX": {
       "sl": 32,
@@ -1492,7 +1492,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MCX&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:34.851047+00:00"
+      "fetched_at": "2026-09-29T22:22:04.456012+00:00"
     },
     "HCLTECH": {
       "sl": 33,
@@ -1545,7 +1545,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HCLTECH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:37.429250+00:00"
+      "fetched_at": "2026-09-29T22:22:07.086388+00:00"
     },
     "MEESHO": {
       "sl": 34,
@@ -1557,7 +1557,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MEESHO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:39.385052+00:00"
+      "fetched_at": "2026-09-29T22:22:09.125992+00:00"
     },
     "DRREDDY": {
       "sl": 35,
@@ -1610,7 +1610,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DRREDDY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:41.232820+00:00"
+      "fetched_at": "2026-09-29T22:22:11.397456+00:00"
     },
     "ADANIPOWER": {
       "sl": 36,
@@ -1663,7 +1663,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ADANIPOWER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:43.471157+00:00"
+      "fetched_at": "2026-09-29T22:22:14.138661+00:00"
     },
     "POWERGRID": {
       "sl": 37,
@@ -1716,7 +1716,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=POWERGRID&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:45.505660+00:00"
+      "fetched_at": "2026-09-29T22:22:16.162405+00:00"
     },
     "PAYTM": {
       "sl": 38,
@@ -1769,7 +1769,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PAYTM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:47.851130+00:00"
+      "fetched_at": "2026-09-29T22:22:18.483704+00:00"
     },
     "DIVISLAB": {
       "sl": 39,
@@ -1822,7 +1822,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DIVISLAB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:49.858711+00:00"
+      "fetched_at": "2026-09-29T22:22:21.216717+00:00"
     },
     "MARUTI": {
       "sl": 40,
@@ -1875,7 +1875,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MARUTI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:51.827286+00:00"
+      "fetched_at": "2026-09-29T22:22:23.175962+00:00"
     },
     "SHRIRAMFIN": {
       "sl": 41,
@@ -1928,7 +1928,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SHRIRAMFIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:53.188611+00:00"
+      "fetched_at": "2026-09-29T22:22:25.608552+00:00"
     },
     "BAJAJ-AUTO": {
       "sl": 42,
@@ -1981,7 +1981,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BAJAJ-AUTO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:55.509914+00:00"
+      "fetched_at": "2026-09-29T22:22:28.298660+00:00"
     },
     "SUNPHARMA": {
       "sl": 43,
@@ -2034,7 +2034,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SUNPHARMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:57.439421+00:00"
+      "fetched_at": "2026-09-29T22:22:30.690913+00:00"
     },
     "ULTRACEMCO": {
       "sl": 44,
@@ -2087,7 +2087,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ULTRACEMCO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:01:59.808795+00:00"
+      "fetched_at": "2026-09-29T22:22:33.484370+00:00"
     },
     "TITAN": {
       "sl": 45,
@@ -2140,7 +2140,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TITAN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:02.550867+00:00"
+      "fetched_at": "2026-09-29T22:22:36.356805+00:00"
     },
     "APOLLOHOSP": {
       "sl": 46,
@@ -2193,7 +2193,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=APOLLOHOSP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:03.866510+00:00"
+      "fetched_at": "2026-09-29T22:22:38.397047+00:00"
     },
     "KAYNES": {
       "sl": 47,
@@ -2246,7 +2246,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KAYNES&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:06.810959+00:00"
+      "fetched_at": "2026-09-29T22:22:41.123945+00:00"
     },
     "TATASTEEL": {
       "sl": 48,
@@ -2299,7 +2299,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATASTEEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:09.468140+00:00"
+      "fetched_at": "2026-09-29T22:22:44.185851+00:00"
     },
     "KALYANKJIL": {
       "sl": 49,
@@ -2352,7 +2352,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KALYANKJIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:11.520072+00:00"
+      "fetched_at": "2026-09-29T22:22:46.419281+00:00"
     },
     "TMPV": {
       "sl": 50,
@@ -2405,7 +2405,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TMPV&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:13.776517+00:00"
+      "fetched_at": "2026-09-29T22:22:48.563280+00:00"
     },
     "BEL": {
       "sl": 51,
@@ -2458,7 +2458,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:16.562818+00:00"
+      "fetched_at": "2026-09-29T22:22:51.358751+00:00"
     },
     "HAL": {
       "sl": 52,
@@ -2511,7 +2511,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HAL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:18.572800+00:00"
+      "fetched_at": "2026-09-29T22:22:53.610913+00:00"
     },
     "MANKIND": {
       "sl": 53,
@@ -2564,7 +2564,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MANKIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:20.840881+00:00"
+      "fetched_at": "2026-09-29T22:22:56.491815+00:00"
     },
     "TECHM": {
       "sl": 54,
@@ -2617,7 +2617,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TECHM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:23.704850+00:00"
+      "fetched_at": "2026-09-29T22:22:59.146773+00:00"
     },
     "LAURUSLABS": {
       "sl": 55,
@@ -2670,7 +2670,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LAURUSLABS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:25.630942+00:00"
+      "fetched_at": "2026-09-29T22:23:01.183901+00:00"
     },
     "HINDALCO": {
       "sl": 56,
@@ -2723,7 +2723,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HINDALCO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:27.910469+00:00"
+      "fetched_at": "2026-09-29T22:23:03.697470+00:00"
     },
     "GROWW": {
       "sl": 57,
@@ -2735,7 +2735,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GROWW&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:30.479872+00:00"
+      "fetched_at": "2026-09-29T22:23:06.236046+00:00"
     },
     "OLAELEC": {
       "sl": 58,
@@ -2747,7 +2747,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=OLAELEC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:32.356811+00:00"
+      "fetched_at": "2026-09-29T22:23:08.010846+00:00"
     },
     "HINDCOPPER": {
       "sl": 59,
@@ -2800,7 +2800,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HINDCOPPER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:34.604296+00:00"
+      "fetched_at": "2026-09-29T22:23:10.368005+00:00"
     },
     "SOLARINDS": {
       "sl": 60,
@@ -2853,7 +2853,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SOLARINDS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:37.504849+00:00"
+      "fetched_at": "2026-09-29T22:23:13.124012+00:00"
     },
     "EICHERMOT": {
       "sl": 61,
@@ -2906,7 +2906,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=EICHERMOT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:39.485170+00:00"
+      "fetched_at": "2026-09-29T22:23:15.088268+00:00"
     },
     "PFC": {
       "sl": 62,
@@ -2959,7 +2959,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PFC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:41.885351+00:00"
+      "fetched_at": "2026-09-29T22:23:17.495691+00:00"
     },
     "CHENNPETRO": {
       "sl": 63,
@@ -3012,7 +3012,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CHENNPETRO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:44.507202+00:00"
+      "fetched_at": "2026-09-29T22:23:20.086797+00:00"
     },
     "LENSKART": {
       "sl": 64,
@@ -3024,7 +3024,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LENSKART&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:46.505673+00:00"
+      "fetched_at": "2026-09-29T22:23:22.760642+00:00"
     },
     "DIXON": {
       "sl": 65,
@@ -3077,7 +3077,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DIXON&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:48.714715+00:00"
+      "fetched_at": "2026-09-29T22:23:25.566249+00:00"
     },
     "LTM": {
       "sl": 66,
@@ -3130,7 +3130,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LTM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:51.517211+00:00"
+      "fetched_at": "2026-09-29T22:23:28.093823+00:00"
     },
     "TRENT": {
       "sl": 67,
@@ -3183,7 +3183,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TRENT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:53.511897+00:00"
+      "fetched_at": "2026-09-29T22:23:30.317308+00:00"
     },
     "HDFCLIFE": {
       "sl": 68,
@@ -3195,7 +3195,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HDFCLIFE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:55.851636+00:00"
+      "fetched_at": "2026-09-29T22:23:32.552044+00:00"
     },
     "SAIL": {
       "sl": 69,
@@ -3248,7 +3248,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SAIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:02:58.386586+00:00"
+      "fetched_at": "2026-09-29T22:23:35.713349+00:00"
     },
     "NTPC": {
       "sl": 70,
@@ -3301,7 +3301,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NTPC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:00.313374+00:00"
+      "fetched_at": "2026-09-29T22:23:38.696696+00:00"
     },
     "HINDUNILVR": {
       "sl": 71,
@@ -3354,7 +3354,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HINDUNILVR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:02.766579+00:00"
+      "fetched_at": "2026-09-29T22:23:41.587237+00:00"
     },
     "TATAPOWER": {
       "sl": 72,
@@ -3407,7 +3407,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATAPOWER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:05.476359+00:00"
+      "fetched_at": "2026-09-29T22:23:44.371625+00:00"
     },
     "CUMMINSIND": {
       "sl": 73,
@@ -3460,7 +3460,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CUMMINSIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:07.590092+00:00"
+      "fetched_at": "2026-09-29T22:23:46.541627+00:00"
     },
     "LICI": {
       "sl": 74,
@@ -3472,7 +3472,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LICI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:09.874604+00:00"
+      "fetched_at": "2026-09-29T22:23:49.859695+00:00"
     },
     "ITC": {
       "sl": 75,
@@ -3525,7 +3525,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ITC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:11.888257+00:00"
+      "fetched_at": "2026-09-29T22:23:52.391812+00:00"
     },
     "LTF": {
       "sl": 76,
@@ -3578,7 +3578,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LTF&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:13.827697+00:00"
+      "fetched_at": "2026-09-29T22:23:54.550608+00:00"
     },
     "NETWEB": {
       "sl": 77,
@@ -3631,7 +3631,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NETWEB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:15.215099+00:00"
+      "fetched_at": "2026-09-29T22:23:57.511036+00:00"
     },
     "GVT&D": {
       "sl": 78,
@@ -3684,7 +3684,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GVT&D&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:17.546275+00:00"
+      "fetched_at": "2026-09-29T22:24:00.250339+00:00"
     },
     "NCC": {
       "sl": 79,
@@ -3737,7 +3737,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NCC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:19.481891+00:00"
+      "fetched_at": "2026-09-29T22:24:02.323052+00:00"
     },
     "JIOFIN": {
       "sl": 80,
@@ -3790,7 +3790,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JIOFIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:21.766930+00:00"
+      "fetched_at": "2026-09-29T22:24:04.777446+00:00"
     },
     "HEROMOTOCO": {
       "sl": 81,
@@ -3843,7 +3843,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HEROMOTOCO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:24.509939+00:00"
+      "fetched_at": "2026-09-29T22:24:07.216758+00:00"
     },
     "PIRAMALFIN": {
       "sl": 82,
@@ -3855,7 +3855,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PIRAMALFIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:26.443995+00:00"
+      "fetched_at": "2026-09-29T22:24:09.426876+00:00"
     },
     "GRASIM": {
       "sl": 83,
@@ -3908,7 +3908,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GRASIM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:28.585356+00:00"
+      "fetched_at": "2026-09-29T22:24:11.448895+00:00"
     },
     "VBL": {
       "sl": 84,
@@ -3961,7 +3961,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=VBL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:31.548940+00:00"
+      "fetched_at": "2026-09-29T22:24:14.432247+00:00"
     },
     "TORNTPHARM": {
       "sl": 85,
@@ -4014,7 +4014,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TORNTPHARM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:33.470037+00:00"
+      "fetched_at": "2026-09-29T22:24:16.659615+00:00"
     },
     "APARINDS": {
       "sl": 86,
@@ -4067,7 +4067,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=APARINDS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:35.771272+00:00"
+      "fetched_at": "2026-09-29T22:24:19.516386+00:00"
     },
     "GESHIP": {
       "sl": 87,
@@ -4120,7 +4120,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GESHIP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:38.466512+00:00"
+      "fetched_at": "2026-09-29T22:24:23.851256+00:00"
     },
     "KAJARIACER": {
       "sl": 88,
@@ -4173,7 +4173,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KAJARIACER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:40.487638+00:00"
+      "fetched_at": "2026-09-29T22:24:26.036448+00:00"
     },
     "SONACOMS": {
       "sl": 89,
@@ -4226,7 +4226,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SONACOMS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:42.845169+00:00"
+      "fetched_at": "2026-09-29T22:24:28.523955+00:00"
     },
     "SWIGGY": {
       "sl": 90,
@@ -4255,7 +4255,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SWIGGY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:45.474480+00:00"
+      "fetched_at": "2026-09-29T22:24:31.336990+00:00"
     },
     "COFORGE": {
       "sl": 91,
@@ -4308,7 +4308,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=COFORGE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:47.403915+00:00"
+      "fetched_at": "2026-09-29T22:24:33.345734+00:00"
     },
     "ADANIENSOL": {
       "sl": 92,
@@ -4361,7 +4361,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ADANIENSOL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:49.824059+00:00"
+      "fetched_at": "2026-09-29T22:24:35.528874+00:00"
     },
     "UNIONBANK": {
       "sl": 93,
@@ -4414,7 +4414,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=UNIONBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:52.469520+00:00"
+      "fetched_at": "2026-09-29T22:24:38.284192+00:00"
     },
     "ACUTAAS": {
       "sl": 94,
@@ -4467,7 +4467,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ACUTAAS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:54.465491+00:00"
+      "fetched_at": "2026-09-29T22:24:40.602974+00:00"
     },
     "MUTHOOTFIN": {
       "sl": 95,
@@ -4479,7 +4479,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MUTHOOTFIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:56.970456+00:00"
+      "fetched_at": "2026-09-29T22:24:43.591654+00:00"
     },
     "INDUSTOWER": {
       "sl": 96,
@@ -4532,7 +4532,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INDUSTOWER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:03:59.259796+00:00"
+      "fetched_at": "2026-09-29T22:24:45.981938+00:00"
     },
     "COALINDIA": {
       "sl": 97,
@@ -4585,7 +4585,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=COALINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:01.451346+00:00"
+      "fetched_at": "2026-09-29T22:24:48.352639+00:00"
     },
     "JSWSTEEL": {
       "sl": 98,
@@ -4638,7 +4638,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JSWSTEEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:04.215684+00:00"
+      "fetched_at": "2026-09-29T22:24:50.545996+00:00"
     },
     "TVSMOTOR": {
       "sl": 99,
@@ -4691,7 +4691,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TVSMOTOR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:06.485667+00:00"
+      "fetched_at": "2026-09-29T22:24:53.147829+00:00"
     },
     "DLF": {
       "sl": 100,
@@ -4744,7 +4744,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DLF&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:08.426153+00:00"
+      "fetched_at": "2026-09-29T22:24:55.101932+00:00"
     },
     "PINELABS": {
       "sl": 101,
@@ -4756,7 +4756,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PINELABS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:11.076478+00:00"
+      "fetched_at": "2026-09-29T22:24:57.659920+00:00"
     },
     "FEDERALBNK": {
       "sl": 102,
@@ -4809,7 +4809,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FEDERALBNK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:13.388253+00:00"
+      "fetched_at": "2026-09-29T22:25:00.001716+00:00"
     },
     "ONGC": {
       "sl": 103,
@@ -4862,7 +4862,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ONGC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:15.326235+00:00"
+      "fetched_at": "2026-09-29T22:25:02.016630+00:00"
     },
     "MANAPPURAM": {
       "sl": 104,
@@ -4915,7 +4915,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MANAPPURAM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:17.856368+00:00"
+      "fetched_at": "2026-09-29T22:25:05.058255+00:00"
     },
     "ASTERDM": {
       "sl": 105,
@@ -4968,7 +4968,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ASTERDM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:19.861954+00:00"
+      "fetched_at": "2026-09-29T22:25:07.249447+00:00"
     },
     "GLENMARK": {
       "sl": 106,
@@ -5021,7 +5021,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GLENMARK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:21.922038+00:00"
+      "fetched_at": "2026-09-29T22:25:09.542328+00:00"
     },
     "HDFCAMC": {
       "sl": 107,
@@ -5074,7 +5074,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HDFCAMC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:24.877327+00:00"
+      "fetched_at": "2026-09-29T22:25:12.457205+00:00"
     },
     "PNB": {
       "sl": 108,
@@ -5127,7 +5127,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PNB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:27.514649+00:00"
+      "fetched_at": "2026-09-29T22:25:15.189298+00:00"
     },
     "IDFCFIRSTB": {
       "sl": 109,
@@ -5180,7 +5180,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IDFCFIRSTB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:29.508772+00:00"
+      "fetched_at": "2026-09-29T22:25:17.053868+00:00"
     },
     "ZYDUSLIFE": {
       "sl": 110,
@@ -5233,7 +5233,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ZYDUSLIFE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:31.824595+00:00"
+      "fetched_at": "2026-09-29T22:25:19.539105+00:00"
     },
     "YESBANK": {
       "sl": 111,
@@ -5286,7 +5286,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=YESBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:34.490568+00:00"
+      "fetched_at": "2026-09-29T22:25:22.055343+00:00"
     },
     "INDUSINDBK": {
       "sl": 112,
@@ -5339,7 +5339,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INDUSINDBK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:36.435962+00:00"
+      "fetched_at": "2026-09-29T22:25:23.989133+00:00"
     },
     "ANANDRATHI": {
       "sl": 113,
@@ -5392,7 +5392,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ANANDRATHI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:38.839620+00:00"
+      "fetched_at": "2026-09-29T22:25:26.347241+00:00"
     },
     "KEI": {
       "sl": 114,
@@ -5445,7 +5445,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KEI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:41.529837+00:00"
+      "fetched_at": "2026-09-29T22:25:29.037655+00:00"
     },
     "WOCKPHARMA": {
       "sl": 115,
@@ -5498,7 +5498,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=WOCKPHARMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:43.518703+00:00"
+      "fetched_at": "2026-09-29T22:25:31.162270+00:00"
     },
     "MRPL": {
       "sl": 116,
@@ -5551,7 +5551,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MRPL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:45.853175+00:00"
+      "fetched_at": "2026-09-29T22:25:33.451976+00:00"
     },
     "SBILIFE": {
       "sl": 117,
@@ -5563,7 +5563,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SBILIFE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:47.902388+00:00"
+      "fetched_at": "2026-09-29T22:25:36.087435+00:00"
     },
     "IFCI": {
       "sl": 118,
@@ -5616,7 +5616,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IFCI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:49.800633+00:00"
+      "fetched_at": "2026-09-29T22:25:38.012843+00:00"
     },
     "HINDZINC": {
       "sl": 119,
@@ -5669,7 +5669,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HINDZINC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:51.868912+00:00"
+      "fetched_at": "2026-09-29T22:25:40.564471+00:00"
     },
     "BHEL": {
       "sl": 120,
@@ -5722,7 +5722,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BHEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:54.492224+00:00"
+      "fetched_at": "2026-09-29T22:25:43.110676+00:00"
     },
     "PREMIERENE": {
       "sl": 121,
@@ -5751,7 +5751,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PREMIERENE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:56.585692+00:00"
+      "fetched_at": "2026-09-29T22:25:45.007620+00:00"
     },
     "ABLBL": {
       "sl": 122,
@@ -5763,7 +5763,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ABLBL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:04:58.888901+00:00"
+      "fetched_at": "2026-09-29T22:25:47.667465+00:00"
     },
     "GLAND": {
       "sl": 123,
@@ -5816,7 +5816,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GLAND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:01.246421+00:00"
+      "fetched_at": "2026-09-29T22:25:49.833820+00:00"
     },
     "MAXHEALTH": {
       "sl": 124,
@@ -5869,7 +5869,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MAXHEALTH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:03.223080+00:00"
+      "fetched_at": "2026-09-29T22:25:51.792286+00:00"
     },
     "360ONE": {
       "sl": 125,
@@ -5906,7 +5906,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=360ONE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:05.846185+00:00"
+      "fetched_at": "2026-09-29T22:25:54.412917+00:00"
     },
     "BRITANNIA": {
       "sl": 126,
@@ -5959,7 +5959,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BRITANNIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:08.520464+00:00"
+      "fetched_at": "2026-09-29T22:25:57.101454+00:00"
     },
     "NATIONALUM": {
       "sl": 127,
@@ -6012,7 +6012,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NATIONALUM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:10.471038+00:00"
+      "fetched_at": "2026-09-29T22:25:59.062841+00:00"
     },
     "DMART": {
       "sl": 128,
@@ -6065,7 +6065,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DMART&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:12.804700+00:00"
+      "fetched_at": "2026-09-29T22:26:01.423515+00:00"
     },
     "ICICIAMC": {
       "sl": 129,
@@ -6077,7 +6077,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ICICIAMC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:15.524353+00:00"
+      "fetched_at": "2026-09-29T22:26:04.170382+00:00"
     },
     "VEDL": {
       "sl": 130,
@@ -6130,7 +6130,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=VEDL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:17.405097+00:00"
+      "fetched_at": "2026-09-29T22:26:06.021041+00:00"
     },
     "CANBK": {
       "sl": 131,
@@ -6183,7 +6183,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CANBK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:19.776531+00:00"
+      "fetched_at": "2026-09-29T22:26:08.468407+00:00"
     },
     "SUZLON": {
       "sl": 132,
@@ -6236,7 +6236,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SUZLON&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:22.453037+00:00"
+      "fetched_at": "2026-09-29T22:26:11.122009+00:00"
     },
     "CHOLAFIN": {
       "sl": 133,
@@ -6289,7 +6289,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CHOLAFIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:24.393026+00:00"
+      "fetched_at": "2026-09-29T22:26:13.105500+00:00"
     },
     "DABUR": {
       "sl": 134,
@@ -6342,7 +6342,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DABUR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:26.820379+00:00"
+      "fetched_at": "2026-09-29T22:26:15.360992+00:00"
     },
     "NESTLEIND": {
       "sl": 135,
@@ -6395,7 +6395,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NESTLEIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:29.531675+00:00"
+      "fetched_at": "2026-09-29T22:26:18.105658+00:00"
     },
     "DELHIVERY": {
       "sl": 136,
@@ -6448,7 +6448,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DELHIVERY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:31.600883+00:00"
+      "fetched_at": "2026-09-29T22:26:19.987714+00:00"
     },
     "TATACONSUM": {
       "sl": 137,
@@ -6501,7 +6501,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATACONSUM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:33.850049+00:00"
+      "fetched_at": "2026-09-29T22:26:22.374940+00:00"
     },
     "MOTHERSON": {
       "sl": 138,
@@ -6554,7 +6554,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MOTHERSON&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:36.545443+00:00"
+      "fetched_at": "2026-09-29T22:26:25.094188+00:00"
     },
     "ASHOKLEY": {
       "sl": 139,
@@ -6607,7 +6607,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ASHOKLEY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:38.524243+00:00"
+      "fetched_at": "2026-09-29T22:26:27.252455+00:00"
     },
     "ASIANPAINT": {
       "sl": 140,
@@ -6660,7 +6660,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ASIANPAINT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:40.861482+00:00"
+      "fetched_at": "2026-09-29T22:26:29.384982+00:00"
     },
     "TMCV": {
       "sl": 141,
@@ -6672,7 +6672,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TMCV&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:43.460093+00:00"
+      "fetched_at": "2026-09-29T22:26:32.072177+00:00"
     },
     "BHARATFORG": {
       "sl": 142,
@@ -6725,7 +6725,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BHARATFORG&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:45.193730+00:00"
+      "fetched_at": "2026-09-29T22:26:33.740599+00:00"
     },
     "FORTIS": {
       "sl": 143,
@@ -6778,7 +6778,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FORTIS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:47.802695+00:00"
+      "fetched_at": "2026-09-29T22:26:36.430550+00:00"
     },
     "GAIL": {
       "sl": 144,
@@ -6831,7 +6831,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GAIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:50.508501+00:00"
+      "fetched_at": "2026-09-29T22:26:39.173276+00:00"
     },
     "APOLLOTYRE": {
       "sl": 145,
@@ -6884,7 +6884,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=APOLLOTYRE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:52.583589+00:00"
+      "fetched_at": "2026-09-29T22:26:41.197417+00:00"
     },
     "CIPLA": {
       "sl": 146,
@@ -6937,7 +6937,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CIPLA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:54.932019+00:00"
+      "fetched_at": "2026-09-29T22:26:43.462760+00:00"
     },
     "TATACHEM": {
       "sl": 147,
@@ -6990,7 +6990,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATACHEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:57.651836+00:00"
+      "fetched_at": "2026-09-29T22:26:46.186799+00:00"
     },
     "ADANIGREEN": {
       "sl": 148,
@@ -7043,7 +7043,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ADANIGREEN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:05:59.792060+00:00"
+      "fetched_at": "2026-09-29T22:26:48.125894+00:00"
     },
     "INDIGO": {
       "sl": 149,
@@ -7096,7 +7096,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INDIGO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:01.768973+00:00"
+      "fetched_at": "2026-09-29T22:26:50.370481+00:00"
     },
     "AUROPHARMA": {
       "sl": 150,
@@ -7149,7 +7149,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AUROPHARMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:04.759958+00:00"
+      "fetched_at": "2026-09-29T22:26:53.089514+00:00"
     },
     "LUPIN": {
       "sl": 151,
@@ -7202,7 +7202,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LUPIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:06.918089+00:00"
+      "fetched_at": "2026-09-29T22:26:55.297517+00:00"
     },
     "AMBER": {
       "sl": 152,
@@ -7255,7 +7255,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AMBER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:09.926559+00:00"
+      "fetched_at": "2026-09-29T22:26:57.461533+00:00"
     },
     "OFSS": {
       "sl": 153,
@@ -7308,7 +7308,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=OFSS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:12.769082+00:00"
+      "fetched_at": "2026-09-29T22:27:00.070160+00:00"
     },
     "COCHINSHIP": {
       "sl": 154,
@@ -7361,7 +7361,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=COCHINSHIP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:14.820282+00:00"
+      "fetched_at": "2026-09-29T22:27:02.067776+00:00"
     },
     "CGPOWER": {
       "sl": 155,
@@ -7414,7 +7414,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CGPOWER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:16.906472+00:00"
+      "fetched_at": "2026-09-29T22:27:04.879037+00:00"
     },
     "SYRMA": {
       "sl": 156,
@@ -7467,7 +7467,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SYRMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:19.625177+00:00"
+      "fetched_at": "2026-09-29T22:27:07.202315+00:00"
     },
     "SUNTV": {
       "sl": 157,
@@ -7520,7 +7520,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SUNTV&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:21.761148+00:00"
+      "fetched_at": "2026-09-29T22:27:09.117068+00:00"
     },
     "AUBANK": {
       "sl": 158,
@@ -7573,7 +7573,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AUBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:23.871588+00:00"
+      "fetched_at": "2026-09-29T22:27:11.397748+00:00"
     },
     "AWL": {
       "sl": 159,
@@ -7626,7 +7626,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AWL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:26.483678+00:00"
+      "fetched_at": "2026-09-29T22:27:14.095956+00:00"
     },
     "MAHABANK": {
       "sl": 160,
@@ -7679,7 +7679,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MAHABANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:28.449250+00:00"
+      "fetched_at": "2026-09-29T22:27:16.347784+00:00"
     },
     "CDSL": {
       "sl": 161,
@@ -7732,7 +7732,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CDSL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:30.785632+00:00"
+      "fetched_at": "2026-09-29T22:27:18.390866+00:00"
     },
     "NEULANDLAB": {
       "sl": 162,
@@ -7785,7 +7785,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NEULANDLAB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:33.480788+00:00"
+      "fetched_at": "2026-09-29T22:27:21.053906+00:00"
     },
     "HBLENGINE": {
       "sl": 163,
@@ -7838,7 +7838,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HBLENGINE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:35.787245+00:00"
+      "fetched_at": "2026-09-29T22:27:23.022460+00:00"
     },
     "UPL": {
       "sl": 164,
@@ -7891,7 +7891,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=UPL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:38.043666+00:00"
+      "fetched_at": "2026-09-29T22:27:25.501916+00:00"
     },
     "WAAREEENER": {
       "sl": 165,
@@ -7920,7 +7920,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=WAAREEENER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:40.513484+00:00"
+      "fetched_at": "2026-09-29T22:27:28.086217+00:00"
     },
     "BANDHANBNK": {
       "sl": 166,
@@ -7973,7 +7973,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BANDHANBNK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:42.518139+00:00"
+      "fetched_at": "2026-09-29T22:27:30.112374+00:00"
     },
     "NH": {
       "sl": 167,
@@ -8026,7 +8026,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:44.831499+00:00"
+      "fetched_at": "2026-09-29T22:27:32.479466+00:00"
     },
     "ABCAPITAL": {
       "sl": 168,
@@ -8079,7 +8079,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ABCAPITAL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:47.543458+00:00"
+      "fetched_at": "2026-09-29T22:27:35.078096+00:00"
     },
     "RBLBANK": {
       "sl": 169,
@@ -8132,7 +8132,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RBLBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:49.518135+00:00"
+      "fetched_at": "2026-09-29T22:27:37.204425+00:00"
     },
     "KPITTECH": {
       "sl": 170,
@@ -8185,7 +8185,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KPITTECH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:51.207394+00:00"
+      "fetched_at": "2026-09-29T22:27:39.595082+00:00"
     },
     "TATAELXSI": {
       "sl": 171,
@@ -8238,7 +8238,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATAELXSI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:53.518618+00:00"
+      "fetched_at": "2026-09-29T22:27:42.136961+00:00"
     },
     "BANKBARODA": {
       "sl": 172,
@@ -8291,7 +8291,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BANKBARODA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:55.530786+00:00"
+      "fetched_at": "2026-09-29T22:27:44.173002+00:00"
     },
     "LICHSGFIN": {
       "sl": 173,
@@ -8344,7 +8344,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LICHSGFIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:06:57.790390+00:00"
+      "fetched_at": "2026-09-29T22:27:46.540496+00:00"
     },
     "PIDILITIND": {
       "sl": 174,
@@ -8397,7 +8397,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PIDILITIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:00.449023+00:00"
+      "fetched_at": "2026-09-29T22:27:49.306089+00:00"
     },
     "VMM": {
       "sl": 175,
@@ -8418,7 +8418,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=VMM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:02.454267+00:00"
+      "fetched_at": "2026-09-29T22:27:51.338491+00:00"
     },
     "WHIRLPOOL": {
       "sl": 176,
@@ -8471,7 +8471,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=WHIRLPOOL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:05.107765+00:00"
+      "fetched_at": "2026-09-29T22:27:53.587241+00:00"
     },
     "HYUNDAI": {
       "sl": 177,
@@ -8500,7 +8500,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HYUNDAI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:07.530947+00:00"
+      "fetched_at": "2026-09-29T22:27:56.110330+00:00"
     },
     "DATAPATTNS": {
       "sl": 178,
@@ -8553,7 +8553,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DATAPATTNS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:09.636272+00:00"
+      "fetched_at": "2026-09-29T22:27:58.087009+00:00"
     },
     "MAZDOCK": {
       "sl": 179,
@@ -8606,7 +8606,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MAZDOCK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:11.823881+00:00"
+      "fetched_at": "2026-09-29T22:28:00.374445+00:00"
     },
     "BLUESTARCO": {
       "sl": 180,
@@ -8659,7 +8659,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BLUESTARCO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:14.463095+00:00"
+      "fetched_at": "2026-09-29T22:28:03.202184+00:00"
     },
     "ENGINERSIN": {
       "sl": 181,
@@ -8712,7 +8712,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ENGINERSIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:16.396311+00:00"
+      "fetched_at": "2026-09-29T22:28:05.589815+00:00"
     },
     "IIFL": {
       "sl": 182,
@@ -8724,7 +8724,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IIFL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:18.843149+00:00"
+      "fetched_at": "2026-09-29T22:28:08.635914+00:00"
     },
     "PERSISTENT": {
       "sl": 183,
@@ -8777,7 +8777,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PERSISTENT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:21.290282+00:00"
+      "fetched_at": "2026-09-29T22:28:10.922143+00:00"
     },
     "NAUKRI": {
       "sl": 184,
@@ -8830,7 +8830,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NAUKRI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:23.317128+00:00"
+      "fetched_at": "2026-09-29T22:28:12.948984+00:00"
     },
     "FIRSTCRY": {
       "sl": 185,
@@ -8842,7 +8842,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FIRSTCRY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:25.827906+00:00"
+      "fetched_at": "2026-09-29T22:28:15.406944+00:00"
     },
     "BAJAJFINSV": {
       "sl": 186,
@@ -8895,7 +8895,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BAJAJFINSV&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:28.246455+00:00"
+      "fetched_at": "2026-09-29T22:28:17.903309+00:00"
     },
     "NMDC": {
       "sl": 187,
@@ -8948,7 +8948,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NMDC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:30.296507+00:00"
+      "fetched_at": "2026-09-29T22:28:19.928210+00:00"
     },
     "ABB": {
       "sl": 188,
@@ -9001,7 +9001,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ABB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:32.812336+00:00"
+      "fetched_at": "2026-09-29T22:28:22.399713+00:00"
     },
     "RVNL": {
       "sl": 189,
@@ -9054,7 +9054,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RVNL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:35.498609+00:00"
+      "fetched_at": "2026-09-29T22:28:25.197604+00:00"
     },
     "NYKAA": {
       "sl": 190,
@@ -9107,7 +9107,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NYKAA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:37.398241+00:00"
+      "fetched_at": "2026-09-29T22:28:29.410991+00:00"
     },
     "CAMS": {
       "sl": 191,
@@ -9160,7 +9160,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CAMS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:39.830477+00:00"
+      "fetched_at": "2026-09-29T22:28:31.696808+00:00"
     },
     "VOLTAS": {
       "sl": 192,
@@ -9213,7 +9213,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=VOLTAS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:42.504412+00:00"
+      "fetched_at": "2026-09-29T22:28:34.074282+00:00"
     },
     "APLAPOLLO": {
       "sl": 193,
@@ -9266,7 +9266,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=APLAPOLLO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:44.532992+00:00"
+      "fetched_at": "2026-09-29T22:28:36.117771+00:00"
     },
     "HINDPETRO": {
       "sl": 194,
@@ -9319,7 +9319,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HINDPETRO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:46.903661+00:00"
+      "fetched_at": "2026-09-29T22:28:38.455118+00:00"
     },
     "PATANJALI": {
       "sl": 195,
@@ -9372,7 +9372,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PATANJALI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:49.452105+00:00"
+      "fetched_at": "2026-09-29T22:28:41.148874+00:00"
     },
     "FORCEMOT": {
       "sl": 196,
@@ -9384,7 +9384,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FORCEMOT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:51.386093+00:00"
+      "fetched_at": "2026-09-29T22:28:43.308566+00:00"
     },
     "BPCL": {
       "sl": 197,
@@ -9437,7 +9437,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BPCL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:53.623248+00:00"
+      "fetched_at": "2026-09-29T22:28:45.390266+00:00"
     },
     "IOC": {
       "sl": 198,
@@ -9490,7 +9490,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IOC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:56.460332+00:00"
+      "fetched_at": "2026-09-29T22:28:48.069833+00:00"
     },
     "MFSL": {
       "sl": 199,
@@ -9543,7 +9543,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MFSL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:07:58.338342+00:00"
+      "fetched_at": "2026-09-29T22:28:50.098764+00:00"
     },
     "ICICIPRULI": {
       "sl": 200,
@@ -9555,7 +9555,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ICICIPRULI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:00.849963+00:00"
+      "fetched_at": "2026-09-29T22:28:52.691688+00:00"
     },
     "MARICO": {
       "sl": 201,
@@ -9608,7 +9608,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MARICO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:03.413326+00:00"
+      "fetched_at": "2026-09-29T22:28:55.175389+00:00"
     },
     "SIEMENS": {
       "sl": 202,
@@ -9661,7 +9661,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SIEMENS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:05.360885+00:00"
+      "fetched_at": "2026-09-29T22:28:57.297955+00:00"
     },
     "HFCL": {
       "sl": 203,
@@ -9714,7 +9714,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HFCL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:07.879095+00:00"
+      "fetched_at": "2026-09-29T22:28:59.443143+00:00"
     },
     "ALKEM": {
       "sl": 204,
@@ -9767,7 +9767,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ALKEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:10.467861+00:00"
+      "fetched_at": "2026-09-29T22:29:02.186633+00:00"
     },
     "ASTRAL": {
       "sl": 205,
@@ -9820,7 +9820,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ASTRAL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:12.363371+00:00"
+      "fetched_at": "2026-09-29T22:29:04.165048+00:00"
     },
     "CROMPTON": {
       "sl": 206,
@@ -9873,7 +9873,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CROMPTON&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:14.825940+00:00"
+      "fetched_at": "2026-09-29T22:29:06.496511+00:00"
     },
     "KFINTECH": {
       "sl": 207,
@@ -9926,7 +9926,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KFINTECH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:17.513370+00:00"
+      "fetched_at": "2026-09-29T22:29:09.101896+00:00"
     },
     "IRFC": {
       "sl": 208,
@@ -9979,7 +9979,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IRFC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:19.474743+00:00"
+      "fetched_at": "2026-09-29T22:29:11.006876+00:00"
     },
     "ANGELONE": {
       "sl": 209,
@@ -9991,7 +9991,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ANGELONE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:21.746088+00:00"
+      "fetched_at": "2026-09-29T22:29:13.424498+00:00"
     },
     "REDINGTON": {
       "sl": 210,
@@ -10044,7 +10044,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=REDINGTON&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:24.476139+00:00"
+      "fetched_at": "2026-09-29T22:29:16.101669+00:00"
     },
     "BANKINDIA": {
       "sl": 211,
@@ -10097,7 +10097,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BANKINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:26.378149+00:00"
+      "fetched_at": "2026-09-29T22:29:18.100110+00:00"
     },
     "BDL": {
       "sl": 212,
@@ -10150,7 +10150,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BDL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:28.849105+00:00"
+      "fetched_at": "2026-09-29T22:29:20.463993+00:00"
     },
     "ZEEL": {
       "sl": 213,
@@ -10203,7 +10203,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ZEEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:31.468326+00:00"
+      "fetched_at": "2026-09-29T22:29:23.086689+00:00"
     },
     "PFOCUS": {
       "sl": 214,
@@ -10256,7 +10256,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PFOCUS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:33.388069+00:00"
+      "fetched_at": "2026-09-29T22:29:25.037234+00:00"
     },
     "NEWGEN": {
       "sl": 215,
@@ -10309,7 +10309,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NEWGEN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:35.749035+00:00"
+      "fetched_at": "2026-09-29T22:29:27.393347+00:00"
     },
     "CASTROLIND": {
       "sl": 216,
@@ -10362,7 +10362,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CASTROLIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:38.451316+00:00"
+      "fetched_at": "2026-09-29T22:29:30.073100+00:00"
     },
     "GODREJCP": {
       "sl": 217,
@@ -10415,7 +10415,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GODREJCP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:40.423850+00:00"
+      "fetched_at": "2026-09-29T22:29:32.154688+00:00"
     },
     "ICICIGI": {
       "sl": 218,
@@ -10427,7 +10427,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ICICIGI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:42.835619+00:00"
+      "fetched_at": "2026-09-29T22:29:34.370005+00:00"
     },
     "NAVINFLUOR": {
       "sl": 219,
@@ -10480,7 +10480,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NAVINFLUOR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:45.386905+00:00"
+      "fetched_at": "2026-09-29T22:29:37.172408+00:00"
     },
     "HSCL": {
       "sl": 220,
@@ -10533,7 +10533,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HSCL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:47.383378+00:00"
+      "fetched_at": "2026-09-29T22:29:39.169071+00:00"
     },
     "INDGN": {
       "sl": 221,
@@ -10578,7 +10578,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INDGN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:49.842377+00:00"
+      "fetched_at": "2026-09-29T22:29:41.375734+00:00"
     },
     "JUBLPHARMA": {
       "sl": 222,
@@ -10631,7 +10631,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JUBLPHARMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:52.451611+00:00"
+      "fetched_at": "2026-09-29T22:29:44.090698+00:00"
     },
     "ENRIN": {
       "sl": 223,
@@ -10643,7 +10643,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ENRIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:54.424405+00:00"
+      "fetched_at": "2026-09-29T22:29:46.181719+00:00"
     },
     "JUBLFOOD": {
       "sl": 224,
@@ -10696,7 +10696,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JUBLFOOD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:56.539616+00:00"
+      "fetched_at": "2026-09-29T22:29:48.343722+00:00"
     },
     "FINCABLES": {
       "sl": 225,
@@ -10749,7 +10749,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FINCABLES&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:08:59.486142+00:00"
+      "fetched_at": "2026-09-29T22:29:51.064646+00:00"
     },
     "INDIANB": {
       "sl": 226,
@@ -10802,7 +10802,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INDIANB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:01.418809+00:00"
+      "fetched_at": "2026-09-29T22:29:53.416735+00:00"
     },
     "LGEINDIA": {
       "sl": 227,
@@ -10814,7 +10814,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LGEINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:03.822936+00:00"
+      "fetched_at": "2026-09-29T22:29:55.473159+00:00"
     },
     "HAVELLS": {
       "sl": 228,
@@ -10867,7 +10867,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HAVELLS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:06.542639+00:00"
+      "fetched_at": "2026-09-29T22:29:58.095886+00:00"
     },
     "PRESTIGE": {
       "sl": 229,
@@ -10920,7 +10920,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PRESTIGE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:08.525981+00:00"
+      "fetched_at": "2026-09-29T22:30:00.037690+00:00"
     },
     "NAM-INDIA": {
       "sl": 230,
@@ -10973,7 +10973,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NAM-INDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:10.894196+00:00"
+      "fetched_at": "2026-09-29T22:30:02.515954+00:00"
     },
     "PPLPHARMA": {
       "sl": 231,
@@ -10985,7 +10985,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PPLPHARMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:13.453658+00:00"
+      "fetched_at": "2026-09-29T22:30:05.156224+00:00"
     },
     "ERIS": {
       "sl": 232,
@@ -11038,7 +11038,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ERIS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:15.141419+00:00"
+      "fetched_at": "2026-09-29T22:30:06.945670+00:00"
     },
     "RADICO": {
       "sl": 233,
@@ -11091,7 +11091,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RADICO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:17.867804+00:00"
+      "fetched_at": "2026-09-29T22:30:09.590709+00:00"
     },
     "BIOCON": {
       "sl": 234,
@@ -11144,7 +11144,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BIOCON&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:20.555656+00:00"
+      "fetched_at": "2026-09-29T22:30:12.131675+00:00"
     },
     "TATACAP": {
       "sl": 235,
@@ -11156,7 +11156,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATACAP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:22.540578+00:00"
+      "fetched_at": "2026-09-29T22:30:14.163734+00:00"
     },
     "EMAMILTD": {
       "sl": 236,
@@ -11209,7 +11209,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=EMAMILTD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:24.762815+00:00"
+      "fetched_at": "2026-09-29T22:30:16.434912+00:00"
     },
     "PNBHOUSING": {
       "sl": 237,
@@ -11262,7 +11262,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PNBHOUSING&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:27.462781+00:00"
+      "fetched_at": "2026-09-29T22:30:19.078959+00:00"
     },
     "OIL": {
       "sl": 238,
@@ -11315,7 +11315,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=OIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:29.453287+00:00"
+      "fetched_at": "2026-09-29T22:30:21.277865+00:00"
     },
     "IREDA": {
       "sl": 239,
@@ -11360,7 +11360,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IREDA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:31.809989+00:00"
+      "fetched_at": "2026-09-29T22:30:23.443328+00:00"
     },
     "PGEL": {
       "sl": 240,
@@ -11413,7 +11413,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PGEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:34.556249+00:00"
+      "fetched_at": "2026-09-29T22:30:26.110604+00:00"
     },
     "GRANULES": {
       "sl": 241,
@@ -11466,7 +11466,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GRANULES&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:36.600460+00:00"
+      "fetched_at": "2026-09-29T22:30:28.234802+00:00"
     },
     "PVRINOX": {
       "sl": 242,
@@ -11519,7 +11519,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PVRINOX&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:38.770526+00:00"
+      "fetched_at": "2026-09-29T22:30:30.589597+00:00"
     },
     "TIINDIA": {
       "sl": 243,
@@ -11572,7 +11572,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TIINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:41.479964+00:00"
+      "fetched_at": "2026-09-29T22:30:33.041401+00:00"
     },
     "GRSE": {
       "sl": 244,
@@ -11625,7 +11625,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GRSE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:43.432780+00:00"
+      "fetched_at": "2026-09-29T22:30:35.113735+00:00"
     },
     "GMRAIRPORT": {
       "sl": 245,
@@ -11678,7 +11678,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GMRAIRPORT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:45.846666+00:00"
+      "fetched_at": "2026-09-29T22:30:37.423430+00:00"
     },
     "APTUS": {
       "sl": 246,
@@ -11731,7 +11731,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=APTUS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:48.485600+00:00"
+      "fetched_at": "2026-09-29T22:30:40.098622+00:00"
     },
     "3MINDIA": {
       "sl": 247,
@@ -11784,7 +11784,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=3MINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:50.512341+00:00"
+      "fetched_at": "2026-09-29T22:30:42.127663+00:00"
     },
     "HONAUT": {
       "sl": 248,
@@ -11837,7 +11837,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HONAUT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:52.857483+00:00"
+      "fetched_at": "2026-09-29T22:30:44.453544+00:00"
     },
     "PAGEIND": {
       "sl": 249,
@@ -11890,7 +11890,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PAGEIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:55.466696+00:00"
+      "fetched_at": "2026-09-29T22:30:47.080849+00:00"
     },
     "MPHASIS": {
       "sl": 250,
@@ -11943,7 +11943,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MPHASIS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:57.481763+00:00"
+      "fetched_at": "2026-09-29T22:30:49.070800+00:00"
     },
     "KARURVYSYA": {
       "sl": 251,
@@ -11996,7 +11996,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KARURVYSYA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:09:59.765884+00:00"
+      "fetched_at": "2026-09-29T22:30:51.650419+00:00"
     },
     "ACC": {
       "sl": 252,
@@ -12049,7 +12049,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ACC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:02.598406+00:00"
+      "fetched_at": "2026-09-29T22:30:54.146289+00:00"
     },
     "MOTILALOFS": {
       "sl": 253,
@@ -12102,7 +12102,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MOTILALOFS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:04.650850+00:00"
+      "fetched_at": "2026-09-29T22:30:56.097061+00:00"
     },
     "SAPPHIRE": {
       "sl": 254,
@@ -12155,7 +12155,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SAPPHIRE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:06.806302+00:00"
+      "fetched_at": "2026-09-29T22:30:58.436387+00:00"
     },
     "CHALET": {
       "sl": 255,
@@ -12208,7 +12208,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CHALET&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:09.530691+00:00"
+      "fetched_at": "2026-09-29T22:31:01.103298+00:00"
     },
     "JINDALSTEL": {
       "sl": 256,
@@ -12261,7 +12261,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JINDALSTEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:11.614273+00:00"
+      "fetched_at": "2026-09-29T22:31:03.036992+00:00"
     },
     "LLOYDSME": {
       "sl": 257,
@@ -12314,7 +12314,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LLOYDSME&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:13.815062+00:00"
+      "fetched_at": "2026-09-29T22:31:05.665873+00:00"
     },
     "JSWINFRA": {
       "sl": 258,
@@ -12367,7 +12367,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JSWINFRA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:16.465024+00:00"
+      "fetched_at": "2026-09-29T22:31:08.084977+00:00"
     },
     "CPPLUS": {
       "sl": 259,
@@ -12379,7 +12379,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CPPLUS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:18.501272+00:00"
+      "fetched_at": "2026-09-29T22:31:10.046668+00:00"
     },
     "EXIDEIND": {
       "sl": 260,
@@ -12432,7 +12432,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=EXIDEIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:20.735197+00:00"
+      "fetched_at": "2026-09-29T22:31:12.259749+00:00"
     },
     "GRAPHITE": {
       "sl": 261,
@@ -12485,7 +12485,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GRAPHITE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:23.444827+00:00"
+      "fetched_at": "2026-09-29T22:31:15.102277+00:00"
     },
     "NHPC": {
       "sl": 262,
@@ -12538,7 +12538,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NHPC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:25.444535+00:00"
+      "fetched_at": "2026-09-29T22:31:17.093750+00:00"
     },
     "GODIGIT": {
       "sl": 263,
@@ -12550,7 +12550,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GODIGIT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:27.788572+00:00"
+      "fetched_at": "2026-09-29T22:31:19.516080+00:00"
     },
     "SBICARD": {
       "sl": 264,
@@ -12603,7 +12603,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SBICARD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:30.409197+00:00"
+      "fetched_at": "2026-09-29T22:31:22.323394+00:00"
     },
     "JSWENERGY": {
       "sl": 265,
@@ -12656,7 +12656,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JSWENERGY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:32.343228+00:00"
+      "fetched_at": "2026-09-29T22:31:24.629232+00:00"
     },
     "PETRONET": {
       "sl": 266,
@@ -12709,7 +12709,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PETRONET&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:34.761363+00:00"
+      "fetched_at": "2026-09-29T22:31:27.521644+00:00"
     },
     "IEX": {
       "sl": 267,
@@ -12762,7 +12762,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IEX&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:37.439481+00:00"
+      "fetched_at": "2026-09-29T22:31:30.174034+00:00"
     },
     "LALPATHLAB": {
       "sl": 268,
@@ -12815,7 +12815,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LALPATHLAB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:39.389371+00:00"
+      "fetched_at": "2026-09-29T22:31:32.309014+00:00"
     },
     "CONCOR": {
       "sl": 269,
@@ -12868,7 +12868,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CONCOR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:41.788703+00:00"
+      "fetched_at": "2026-09-29T22:31:34.420119+00:00"
     },
     "THELEELA": {
       "sl": 270,
@@ -12880,7 +12880,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=THELEELA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:44.464122+00:00"
+      "fetched_at": "2026-09-29T22:31:37.187116+00:00"
     },
     "SPLPETRO": {
       "sl": 271,
@@ -12933,7 +12933,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SPLPETRO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:46.373579+00:00"
+      "fetched_at": "2026-09-29T22:31:39.240276+00:00"
     },
     "JYOTICNC": {
       "sl": 272,
@@ -12986,7 +12986,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JYOTICNC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:48.824247+00:00"
+      "fetched_at": "2026-09-29T22:31:41.514174+00:00"
     },
     "AEGISLOG": {
       "sl": 273,
@@ -13039,7 +13039,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AEGISLOG&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:51.453015+00:00"
+      "fetched_at": "2026-09-29T22:31:44.237707+00:00"
     },
     "PHOENIXLTD": {
       "sl": 274,
@@ -13092,7 +13092,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PHOENIXLTD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:53.425803+00:00"
+      "fetched_at": "2026-09-29T22:31:46.114671+00:00"
     },
     "ONESOURCE": {
       "sl": 275,
@@ -13104,7 +13104,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ONESOURCE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:55.823480+00:00"
+      "fetched_at": "2026-09-29T22:31:48.307520+00:00"
     },
     "FIVESTAR": {
       "sl": 276,
@@ -13157,7 +13157,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FIVESTAR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:10:58.251048+00:00"
+      "fetched_at": "2026-09-29T22:31:50.814025+00:00"
     },
     "ANANTRAJ": {
       "sl": 277,
@@ -13210,7 +13210,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ANANTRAJ&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:00.209272+00:00"
+      "fetched_at": "2026-09-29T22:31:52.903824+00:00"
     },
     "CARTRADE": {
       "sl": 278,
@@ -13263,7 +13263,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CARTRADE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:02.869675+00:00"
+      "fetched_at": "2026-09-29T22:31:55.922009+00:00"
     },
     "SRF": {
       "sl": 279,
@@ -13316,7 +13316,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SRF&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:05.498103+00:00"
+      "fetched_at": "2026-09-29T22:31:58.201272+00:00"
     },
     "NIACL": {
       "sl": 280,
@@ -13328,7 +13328,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NIACL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:07.486519+00:00"
+      "fetched_at": "2026-09-29T22:32:00.107751+00:00"
     },
     "OBEROIRLTY": {
       "sl": 281,
@@ -13381,7 +13381,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=OBEROIRLTY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:09.686586+00:00"
+      "fetched_at": "2026-09-29T22:32:02.781957+00:00"
     },
     "TEGA": {
       "sl": 282,
@@ -13393,7 +13393,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TEGA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:12.457336+00:00"
+      "fetched_at": "2026-09-29T22:32:05.083267+00:00"
     },
     "BAJAJHLDNG": {
       "sl": 283,
@@ -13446,7 +13446,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BAJAJHLDNG&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:14.178014+00:00"
+      "fetched_at": "2026-09-29T22:32:06.848516+00:00"
     },
     "BOSCHLTD": {
       "sl": 284,
@@ -13499,7 +13499,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BOSCHLTD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:16.798060+00:00"
+      "fetched_at": "2026-09-29T22:32:09.702966+00:00"
     },
     "PFIZER": {
       "sl": 285,
@@ -13552,7 +13552,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PFIZER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:19.445041+00:00"
+      "fetched_at": "2026-09-29T22:32:12.270809+00:00"
     },
     "NBCC": {
       "sl": 286,
@@ -13605,7 +13605,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NBCC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:21.405144+00:00"
+      "fetched_at": "2026-09-29T22:32:14.313867+00:00"
     },
     "COHANCE": {
       "sl": 287,
@@ -13658,7 +13658,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=COHANCE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:23.820083+00:00"
+      "fetched_at": "2026-09-29T22:32:16.352844+00:00"
     },
     "COROMANDEL": {
       "sl": 288,
@@ -13711,7 +13711,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=COROMANDEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:26.533977+00:00"
+      "fetched_at": "2026-09-29T22:32:19.187802+00:00"
     },
     "GODREJPROP": {
       "sl": 289,
@@ -13764,7 +13764,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GODREJPROP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:28.476034+00:00"
+      "fetched_at": "2026-09-29T22:32:21.252785+00:00"
     },
     "SONATSOFTW": {
       "sl": 290,
@@ -13817,7 +13817,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SONATSOFTW&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:30.841848+00:00"
+      "fetched_at": "2026-09-29T22:32:23.629965+00:00"
     },
     "PWL": {
       "sl": 291,
@@ -13829,7 +13829,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PWL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:33.465452+00:00"
+      "fetched_at": "2026-09-29T22:32:26.052520+00:00"
     },
     "CHOLAHLDNG": {
       "sl": 292,
@@ -13882,7 +13882,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CHOLAHLDNG&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:35.316894+00:00"
+      "fetched_at": "2026-09-29T22:32:28.033748+00:00"
     },
     "NLCINDIA": {
       "sl": 293,
@@ -13935,7 +13935,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NLCINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:37.848741+00:00"
+      "fetched_at": "2026-09-29T22:32:30.416246+00:00"
     },
     "AMBUJACEM": {
       "sl": 294,
@@ -13988,7 +13988,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AMBUJACEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:40.477547+00:00"
+      "fetched_at": "2026-09-29T22:32:33.080061+00:00"
     },
     "RPOWER": {
       "sl": 295,
@@ -14041,7 +14041,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RPOWER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:42.469373+00:00"
+      "fetched_at": "2026-09-29T22:32:35.328949+00:00"
     },
     "SAREGAMA": {
       "sl": 296,
@@ -14094,7 +14094,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SAREGAMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:44.825506+00:00"
+      "fetched_at": "2026-09-29T22:32:37.647425+00:00"
     },
     "NIVABUPA": {
       "sl": 297,
@@ -14106,7 +14106,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NIVABUPA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:47.496844+00:00"
+      "fetched_at": "2026-09-29T22:32:40.174851+00:00"
     },
     "EMCURE": {
       "sl": 298,
@@ -14143,7 +14143,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=EMCURE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:49.238993+00:00"
+      "fetched_at": "2026-09-29T22:32:41.878138+00:00"
     },
     "EIHOTEL": {
       "sl": 299,
@@ -14196,7 +14196,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=EIHOTEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:51.949494+00:00"
+      "fetched_at": "2026-09-29T22:32:44.480694+00:00"
     },
     "IDBI": {
       "sl": 300,
@@ -14249,7 +14249,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IDBI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:11:54.482978+00:00"
+      "fetched_at": "2026-09-29T22:32:47.099919+00:00"
     },
     "SJVN": {
       "sl": 389,
@@ -14302,7 +14302,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SJVN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:02.911308+00:00"
+      "fetched_at": "2026-09-29T22:32:55.616576+00:00"
     },
     "UNOMINDA": {
       "sl": 280,
@@ -14355,7 +14355,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=UNOMINDA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:09.942763+00:00"
+      "fetched_at": "2026-09-29T22:33:02.562572+00:00"
     },
     "ELECON": {
       "sl": 257,
@@ -14408,7 +14408,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ELECON&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:16.954056+00:00"
+      "fetched_at": "2026-09-29T22:33:09.734934+00:00"
     },
     "URBANCO": {
       "sl": 277,
@@ -14420,7 +14420,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=URBANCO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:23.910940+00:00"
+      "fetched_at": "2026-09-29T22:33:17.728717+00:00"
     },
     "HUDCO": {
       "sl": 368,
@@ -14473,7 +14473,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HUDCO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:30.944685+00:00"
+      "fetched_at": "2026-09-29T22:33:25.618264+00:00"
     },
     "RKFORGE": {
       "sl": 250,
@@ -14526,7 +14526,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RKFORGE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:37.921323+00:00"
+      "fetched_at": "2026-09-29T22:33:32.586467+00:00"
     },
     "RRKABEL": {
       "sl": 315,
@@ -14579,7 +14579,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RRKABEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:44.921680+00:00"
+      "fetched_at": "2026-09-29T22:33:39.700530+00:00"
     },
     "ABFRL": {
       "sl": 337,
@@ -14591,7 +14591,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ABFRL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:51.913954+00:00"
+      "fetched_at": "2026-09-29T22:33:46.584139+00:00"
     },
     "ANTHEM": {
       "sl": 365,
@@ -14603,7 +14603,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ANTHEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:12:58.911187+00:00"
+      "fetched_at": "2026-09-29T22:33:53.567315+00:00"
     },
     "TEJASNET": {
       "sl": 236,
@@ -14656,7 +14656,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TEJASNET&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:13:05.915728+00:00"
+      "fetched_at": "2026-09-29T22:34:00.536149+00:00"
     },
     "INOXWIND": {
       "sl": 238,
@@ -14709,7 +14709,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INOXWIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:13:12.926033+00:00"
+      "fetched_at": "2026-09-29T22:34:07.566209+00:00"
     },
     "M&MFIN": {
       "sl": 268,
@@ -14762,7 +14762,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=M&MFIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:13:19.963163+00:00"
+      "fetched_at": "2026-09-29T22:34:14.572564+00:00"
     },
     "JSWDULUX": {
       "sl": 397,
@@ -14815,7 +14815,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JSWDULUX&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:13:26.917746+00:00"
+      "fetched_at": "2026-09-29T22:34:21.525385+00:00"
     },
     "GODFRYPHLP": {
       "sl": 312,
@@ -14868,7 +14868,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GODFRYPHLP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:13:33.911241+00:00"
+      "fetched_at": "2026-09-29T22:34:28.599957+00:00"
     },
     "ABBOTINDIA": {
       "sl": 214,
@@ -14880,7 +14880,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ABBOTINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:13:40.914167+00:00"
+      "fetched_at": "2026-09-29T22:34:35.693134+00:00"
     },
     "SAMMAANCAP": {
       "sl": 225,
@@ -14892,7 +14892,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SAMMAANCAP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:13:47.917946+00:00"
+      "fetched_at": "2026-09-29T22:34:42.571580+00:00"
     },
     "SAILIFE": {
       "sl": 329,
@@ -14913,7 +14913,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SAILIFE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:13:54.964418+00:00"
+      "fetched_at": "2026-09-29T22:34:49.654571+00:00"
     },
     "THERMAX": {
       "sl": 346,
@@ -14966,7 +14966,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=THERMAX&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:01.916344+00:00"
+      "fetched_at": "2026-09-29T22:34:56.721765+00:00"
     },
     "CESC": {
       "sl": 373,
@@ -15019,7 +15019,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CESC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:09.024160+00:00"
+      "fetched_at": "2026-09-29T22:35:04.594582+00:00"
     },
     "IGL": {
       "sl": 294,
@@ -15072,7 +15072,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IGL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:15.921877+00:00"
+      "fetched_at": "2026-09-29T22:35:11.633993+00:00"
     },
     "FACT": {
       "sl": 479,
@@ -15125,7 +15125,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FACT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:22.924920+00:00"
+      "fetched_at": "2026-09-29T22:35:18.587033+00:00"
     },
     "BAYERCROP": {
       "sl": 381,
@@ -15137,7 +15137,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BAYERCROP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:29.967677+00:00"
+      "fetched_at": "2026-09-29T22:35:25.556218+00:00"
     },
     "NATCOPHARM": {
       "sl": 254,
@@ -15190,7 +15190,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NATCOPHARM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:36.945118+00:00"
+      "fetched_at": "2026-09-29T22:35:32.737158+00:00"
     },
     "JPPOWER": {
       "sl": 234,
@@ -15243,7 +15243,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JPPOWER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:43.967485+00:00"
+      "fetched_at": "2026-09-29T22:35:40.626886+00:00"
     },
     "EMMVEE": {
       "sl": 281,
@@ -15255,7 +15255,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=EMMVEE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:50.928079+00:00"
+      "fetched_at": "2026-09-29T22:35:47.610972+00:00"
     },
     "CYIENT": {
       "sl": 260,
@@ -15308,7 +15308,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CYIENT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:14:57.970783+00:00"
+      "fetched_at": "2026-09-29T22:35:54.656617+00:00"
     },
     "SBFC": {
       "sl": 443,
@@ -15361,7 +15361,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SBFC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:15:04.958607+00:00"
+      "fetched_at": "2026-09-29T22:36:01.593136+00:00"
     },
     "ZENTEC": {
       "sl": 300,
@@ -15414,7 +15414,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ZENTEC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:15:11.930643+00:00"
+      "fetched_at": "2026-09-29T22:36:08.566211+00:00"
     },
     "IOB": {
       "sl": 487,
@@ -15467,7 +15467,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IOB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:15:18.933114+00:00"
+      "fetched_at": "2026-09-29T22:36:15.570042+00:00"
     },
     "JAINREC": {
       "sl": 253,
@@ -15479,7 +15479,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JAINREC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:15:25.959959+00:00"
+      "fetched_at": "2026-09-29T22:36:22.609759+00:00"
     },
     "NUVAMA": {
       "sl": 266,
@@ -15491,7 +15491,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NUVAMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:15:32.961548+00:00"
+      "fetched_at": "2026-09-29T22:36:29.535705+00:00"
     },
     "SAGILITY": {
       "sl": 276,
@@ -15520,7 +15520,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SAGILITY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:15:39.949950+00:00"
+      "fetched_at": "2026-09-29T22:36:36.650270+00:00"
     },
     "BIKAJI": {
       "sl": 364,
@@ -15573,7 +15573,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BIKAJI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:15:46.950596+00:00"
+      "fetched_at": "2026-09-29T22:36:43.624136+00:00"
     },
     "IPCALAB": {
       "sl": 304,
@@ -15626,7 +15626,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IPCALAB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:15:53.926622+00:00"
+      "fetched_at": "2026-09-29T22:36:50.649335+00:00"
     },
     "COLPAL": {
       "sl": 343,
@@ -15679,7 +15679,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=COLPAL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:00.927047+00:00"
+      "fetched_at": "2026-09-29T22:36:57.632814+00:00"
     },
     "KEC": {
       "sl": 278,
@@ -15732,7 +15732,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KEC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:07.955368+00:00"
+      "fetched_at": "2026-09-29T22:37:04.574641+00:00"
     },
     "ACMESOLAR": {
       "sl": 258,
@@ -15761,7 +15761,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ACMESOLAR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:15.044112+00:00"
+      "fetched_at": "2026-09-29T22:37:11.749946+00:00"
     },
     "BEML": {
       "sl": 302,
@@ -15814,7 +15814,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BEML&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:22.084319+00:00"
+      "fetched_at": "2026-09-29T22:37:19.543018+00:00"
     },
     "TENNIND": {
       "sl": 271,
@@ -15826,7 +15826,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TENNIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:28.987315+00:00"
+      "fetched_at": "2026-09-29T22:37:26.555794+00:00"
     },
     "JSL": {
       "sl": 291,
@@ -15879,7 +15879,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JSL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:35.947860+00:00"
+      "fetched_at": "2026-09-29T22:37:33.558548+00:00"
     },
     "CREDITACC": {
       "sl": 377,
@@ -15891,7 +15891,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CREDITACC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:42.941016+00:00"
+      "fetched_at": "2026-09-29T22:37:40.568151+00:00"
     },
     "POONAWALLA": {
       "sl": 383,
@@ -15944,7 +15944,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=POONAWALLA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:49.944238+00:00"
+      "fetched_at": "2026-09-29T22:37:47.666155+00:00"
     },
     "SUPREMEIND": {
       "sl": 376,
@@ -15997,7 +15997,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SUPREMEIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:16:57.009014+00:00"
+      "fetched_at": "2026-09-29T22:37:54.626171+00:00"
     },
     "PTCIL": {
       "sl": 371,
@@ -16050,7 +16050,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PTCIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:03.956002+00:00"
+      "fetched_at": "2026-09-29T22:38:01.532285+00:00"
     },
     "BELRISE": {
       "sl": 298,
@@ -16062,7 +16062,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BELRISE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:10.978929+00:00"
+      "fetched_at": "2026-09-29T22:38:08.647954+00:00"
     },
     "CGCL": {
       "sl": 310,
@@ -16115,7 +16115,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CGCL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:17.936656+00:00"
+      "fetched_at": "2026-09-29T22:38:15.588854+00:00"
     },
     "PIIND": {
       "sl": 323,
@@ -16168,7 +16168,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PIIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:24.963933+00:00"
+      "fetched_at": "2026-09-29T22:38:22.567750+00:00"
     },
     "TRAVELFOOD": {
       "sl": 356,
@@ -16180,7 +16180,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TRAVELFOOD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:31.984868+00:00"
+      "fetched_at": "2026-09-29T22:38:29.713958+00:00"
     },
     "BLUEJET": {
       "sl": 412,
@@ -16233,7 +16233,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BLUEJET&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:38.991441+00:00"
+      "fetched_at": "2026-09-29T22:38:37.604849+00:00"
     },
     "OLECTRA": {
       "sl": 288,
@@ -16286,7 +16286,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=OLECTRA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:45.970066+00:00"
+      "fetched_at": "2026-09-29T22:38:44.560505+00:00"
     },
     "WELSPUNLIV": {
       "sl": 307,
@@ -16339,7 +16339,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=WELSPUNLIV&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:52.947807+00:00"
+      "fetched_at": "2026-09-29T22:38:51.565714+00:00"
     },
     "TTML": {
       "sl": 248,
@@ -16392,7 +16392,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TTML&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:17:59.930664+00:00"
+      "fetched_at": "2026-09-29T22:38:58.604695+00:00"
     },
     "BALRAMCHIN": {
       "sl": 308,
@@ -16445,7 +16445,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BALRAMCHIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:18:06.926453+00:00"
+      "fetched_at": "2026-09-29T22:39:05.851297+00:00"
     },
     "BLUEDART": {
       "sl": 386,
@@ -16498,7 +16498,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BLUEDART&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:18:13.924555+00:00"
+      "fetched_at": "2026-09-29T22:39:13.537135+00:00"
     },
     "TATATECH": {
       "sl": 336,
@@ -16551,7 +16551,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATATECH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:18:20.947371+00:00"
+      "fetched_at": "2026-09-29T22:39:20.555876+00:00"
     },
     "SCI": {
       "sl": 287,
@@ -16604,7 +16604,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SCI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:18:27.955129+00:00"
+      "fetched_at": "2026-09-29T22:39:27.564544+00:00"
     },
     "DCMSHRIRAM": {
       "sl": 411,
@@ -16657,7 +16657,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DCMSHRIRAM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:18:34.919536+00:00"
+      "fetched_at": "2026-09-29T22:39:34.601632+00:00"
     },
     "GMDCLTD": {
       "sl": 275,
@@ -16710,7 +16710,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GMDCLTD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:18:41.935005+00:00"
+      "fetched_at": "2026-09-29T22:39:41.591150+00:00"
     },
     "ABDL": {
       "sl": 317,
@@ -16755,7 +16755,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ABDL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:18:48.978599+00:00"
+      "fetched_at": "2026-09-29T22:39:48.557797+00:00"
     },
     "IKS": {
       "sl": 342,
@@ -16776,7 +16776,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IKS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:18:56.020864+00:00"
+      "fetched_at": "2026-09-29T22:39:55.605138+00:00"
     },
     "SCHAEFFLER": {
       "sl": 252,
@@ -16829,7 +16829,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SCHAEFFLER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:02.921338+00:00"
+      "fetched_at": "2026-09-29T22:40:02.658945+00:00"
     },
     "LTTS": {
       "sl": 429,
@@ -16882,7 +16882,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LTTS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:09.982695+00:00"
+      "fetched_at": "2026-09-29T22:40:09.567444+00:00"
     },
     "ATGL": {
       "sl": 320,
@@ -16894,7 +16894,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ATGL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:16.989013+00:00"
+      "fetched_at": "2026-09-29T22:40:16.566288+00:00"
     },
     "TATACOMM": {
       "sl": 414,
@@ -16947,7 +16947,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATACOMM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:23.914771+00:00"
+      "fetched_at": "2026-09-29T22:40:23.579356+00:00"
     },
     "TRITURBINE": {
       "sl": 272,
@@ -17000,7 +17000,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TRITURBINE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:30.989731+00:00"
+      "fetched_at": "2026-09-29T22:40:30.629276+00:00"
     },
     "MRF": {
       "sl": 316,
@@ -17053,7 +17053,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MRF&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:37.935057+00:00"
+      "fetched_at": "2026-09-29T22:40:37.637660+00:00"
     },
     "MINDACORP": {
       "sl": 348,
@@ -17106,7 +17106,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MINDACORP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:44.931362+00:00"
+      "fetched_at": "2026-09-29T22:40:44.558665+00:00"
     },
     "STARHEALTH": {
       "sl": 444,
@@ -17118,7 +17118,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=STARHEALTH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:51.910959+00:00"
+      "fetched_at": "2026-09-29T22:40:51.619718+00:00"
     },
     "CARBORUNIV": {
       "sl": 403,
@@ -17171,7 +17171,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CARBORUNIV&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:19:58.968638+00:00"
+      "fetched_at": "2026-09-29T22:40:58.546556+00:00"
     },
     "CUB": {
       "sl": 372,
@@ -17224,7 +17224,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CUB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:20:05.972315+00:00"
+      "fetched_at": "2026-09-29T22:41:05.620664+00:00"
     },
     "J&KBANK": {
       "sl": 350,
@@ -17277,7 +17277,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=J&KBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:20:12.996119+00:00"
+      "fetched_at": "2026-09-29T22:41:12.524002+00:00"
     },
     "BBTC": {
       "sl": 398,
@@ -17330,7 +17330,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BBTC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:20:20.096871+00:00"
+      "fetched_at": "2026-09-29T22:41:19.546538+00:00"
     },
     "PARADEEP": {
       "sl": 339,
@@ -17383,7 +17383,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PARADEEP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:20:27.965706+00:00"
+      "fetched_at": "2026-09-29T22:41:26.653444+00:00"
     },
     "JMFINANCIL": {
       "sl": 303,
@@ -17436,7 +17436,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JMFINANCIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:20:34.932516+00:00"
+      "fetched_at": "2026-09-29T22:41:33.607366+00:00"
     },
     "TATAINVEST": {
       "sl": 321,
@@ -17489,7 +17489,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TATAINVEST&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:20:41.941391+00:00"
+      "fetched_at": "2026-09-29T22:41:40.704273+00:00"
     },
     "GRAVITA": {
       "sl": 322,
@@ -17542,7 +17542,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GRAVITA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:20:48.957400+00:00"
+      "fetched_at": "2026-09-29T22:41:48.638519+00:00"
     },
     "RAINBOW": {
       "sl": 437,
@@ -17595,7 +17595,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RAINBOW&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:20:55.935894+00:00"
+      "fetched_at": "2026-09-29T22:41:55.746065+00:00"
     },
     "ITCHOTELS": {
       "sl": 375,
@@ -17607,7 +17607,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ITCHOTELS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:21:03.053898+00:00"
+      "fetched_at": "2026-09-29T22:42:03.669964+00:00"
     },
     "ECLERX": {
       "sl": 347,
@@ -17660,7 +17660,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ECLERX&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:21:10.167142+00:00"
+      "fetched_at": "2026-09-29T22:42:10.625115+00:00"
     },
     "KIMS": {
       "sl": 391,
@@ -17713,7 +17713,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KIMS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:21:17.919308+00:00"
+      "fetched_at": "2026-09-29T22:42:17.746878+00:00"
     },
     "BALKRISIND": {
       "sl": 351,
@@ -17766,7 +17766,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BALKRISIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:21:24.923830+00:00"
+      "fetched_at": "2026-09-29T22:42:25.532213+00:00"
     },
     "AJANTPHARM": {
       "sl": 476,
@@ -17819,7 +17819,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AJANTPHARM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:21:31.945037+00:00"
+      "fetched_at": "2026-09-29T22:42:32.543174+00:00"
     },
     "CLEAN": {
       "sl": 285,
@@ -17872,7 +17872,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CLEAN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:21:38.928972+00:00"
+      "fetched_at": "2026-09-29T22:42:39.531960+00:00"
     },
     "ZENSARTECH": {
       "sl": 338,
@@ -17925,7 +17925,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ZENSARTECH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:21:46.002997+00:00"
+      "fetched_at": "2026-09-29T22:42:46.527023+00:00"
     },
     "CRAFTSMAN": {
       "sl": 420,
@@ -17978,7 +17978,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CRAFTSMAN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:21:53.011296+00:00"
+      "fetched_at": "2026-09-29T22:42:53.542312+00:00"
     },
     "IRCTC": {
       "sl": 353,
@@ -18031,7 +18031,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IRCTC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:00.081831+00:00"
+      "fetched_at": "2026-09-29T22:43:00.597350+00:00"
     },
     "AFFLE": {
       "sl": 382,
@@ -18084,7 +18084,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AFFLE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:06.961666+00:00"
+      "fetched_at": "2026-09-29T22:43:07.553925+00:00"
     },
     "MEDANTA": {
       "sl": 354,
@@ -18137,7 +18137,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MEDANTA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:13.970093+00:00"
+      "fetched_at": "2026-09-29T22:43:14.544315+00:00"
     },
     "TARIL": {
       "sl": 379,
@@ -18190,7 +18190,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TARIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:21.005387+00:00"
+      "fetched_at": "2026-09-29T22:43:21.692393+00:00"
     },
     "GABRIEL": {
       "sl": 374,
@@ -18243,7 +18243,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GABRIEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:27.943282+00:00"
+      "fetched_at": "2026-09-29T22:43:28.654042+00:00"
     },
     "DEEPAKNTR": {
       "sl": 388,
@@ -18296,7 +18296,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DEEPAKNTR&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:35.026518+00:00"
+      "fetched_at": "2026-09-29T22:43:35.579476+00:00"
     },
     "RAMCOCEM": {
       "sl": 328,
@@ -18349,7 +18349,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RAMCOCEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:42.066851+00:00"
+      "fetched_at": "2026-09-29T22:43:42.543508+00:00"
     },
     "ACE": {
       "sl": 340,
@@ -18402,7 +18402,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ACE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:49.414072+00:00"
+      "fetched_at": "2026-09-29T22:43:50.074188+00:00"
     },
     "MAPMYINDIA": {
       "sl": 418,
@@ -18455,7 +18455,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MAPMYINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:22:57.171753+00:00"
+      "fetched_at": "2026-09-29T22:43:57.620142+00:00"
     },
     "RHIM": {
       "sl": 450,
@@ -18508,7 +18508,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RHIM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:23:05.238650+00:00"
+      "fetched_at": "2026-09-29T22:44:04.674942+00:00"
     },
     "DEVYANI": {
       "sl": 380,
@@ -18561,7 +18561,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DEVYANI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:23:13.087995+00:00"
+      "fetched_at": "2026-09-29T22:44:11.587994+00:00"
     },
     "POLYMED": {
       "sl": 341,
@@ -18614,7 +18614,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=POLYMED&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:23:20.029631+00:00"
+      "fetched_at": "2026-09-29T22:44:18.568991+00:00"
     },
     "GPIL": {
       "sl": 393,
@@ -18667,7 +18667,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GPIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:23:26.956802+00:00"
+      "fetched_at": "2026-09-29T22:44:25.556748+00:00"
     },
     "CHAMBLFERT": {
       "sl": 305,
@@ -18720,7 +18720,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CHAMBLFERT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:23:34.358705+00:00"
+      "fetched_at": "2026-09-29T22:44:32.628567+00:00"
     },
     "ASAHIINDIA": {
       "sl": 486,
@@ -18773,7 +18773,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ASAHIINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:23:41.944389+00:00"
+      "fetched_at": "2026-09-29T22:44:39.892479+00:00"
     },
     "TORNTPOWER": {
       "sl": 451,
@@ -18785,7 +18785,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TORNTPOWER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:23:48.928030+00:00"
+      "fetched_at": "2026-09-29T22:44:47.592393+00:00"
     },
     "MSUMI": {
       "sl": 349,
@@ -18797,7 +18797,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MSUMI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:23:55.947016+00:00"
+      "fetched_at": "2026-09-29T22:44:54.562694+00:00"
     },
     "BERGEPAINT": {
       "sl": 468,
@@ -18850,7 +18850,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BERGEPAINT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:02.933576+00:00"
+      "fetched_at": "2026-09-29T22:45:01.646849+00:00"
     },
     "TECHNOE": {
       "sl": 453,
@@ -18903,7 +18903,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TECHNOE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:09.938493+00:00"
+      "fetched_at": "2026-09-29T22:45:08.581934+00:00"
     },
     "LATENTVIEW": {
       "sl": 426,
@@ -18956,7 +18956,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LATENTVIEW&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:16.941176+00:00"
+      "fetched_at": "2026-09-29T22:45:15.549368+00:00"
     },
     "VTL": {
       "sl": 396,
@@ -19009,7 +19009,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=VTL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:23.945029+00:00"
+      "fetched_at": "2026-09-29T22:45:22.555147+00:00"
     },
     "CAPLIPOINT": {
       "sl": 370,
@@ -19062,7 +19062,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CAPLIPOINT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:30.927629+00:00"
+      "fetched_at": "2026-09-29T22:45:29.536704+00:00"
     },
     "KPIL": {
       "sl": 355,
@@ -19115,7 +19115,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KPIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:37.971131+00:00"
+      "fetched_at": "2026-09-29T22:45:36.533393+00:00"
     },
     "AEGISVOPAK": {
       "sl": 363,
@@ -19127,7 +19127,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AEGISVOPAK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:44.927925+00:00"
+      "fetched_at": "2026-09-29T22:45:43.539187+00:00"
     },
     "FLUOROCHEM": {
       "sl": 441,
@@ -19180,7 +19180,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FLUOROCHEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:52.037674+00:00"
+      "fetched_at": "2026-09-29T22:45:50.629193+00:00"
     },
     "SHYAMMETL": {
       "sl": 352,
@@ -19233,7 +19233,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SHYAMMETL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:24:59.033879+00:00"
+      "fetched_at": "2026-09-29T22:45:57.576982+00:00"
     },
     "TITAGARH": {
       "sl": 366,
@@ -19286,7 +19286,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TITAGARH&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:25:06.355506+00:00"
+      "fetched_at": "2026-09-29T22:46:04.641208+00:00"
     },
     "ARE&M": {
       "sl": 359,
@@ -19339,7 +19339,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ARE&M&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:25:13.939634+00:00"
+      "fetched_at": "2026-09-29T22:46:11.957590+00:00"
     },
     "JINDALSAW": {
       "sl": 390,
@@ -19392,7 +19392,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JINDALSAW&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:25:21.160010+00:00"
+      "fetched_at": "2026-09-29T22:46:19.801926+00:00"
     },
     "IRB": {
       "sl": 332,
@@ -19445,7 +19445,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IRB&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:25:28.970328+00:00"
+      "fetched_at": "2026-09-29T22:46:27.689576+00:00"
     },
     "CHOICEIN": {
       "sl": 495,
@@ -19498,7 +19498,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CHOICEIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:25:36.004066+00:00"
+      "fetched_at": "2026-09-29T22:46:34.808735+00:00"
     },
     "BSOFT": {
       "sl": 331,
@@ -19551,7 +19551,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BSOFT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:25:42.955629+00:00"
+      "fetched_at": "2026-09-29T22:46:42.562899+00:00"
     },
     "BHARTIHEXA": {
       "sl": 401,
@@ -19596,7 +19596,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BHARTIHEXA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:25:50.016798+00:00"
+      "fetched_at": "2026-09-29T22:46:49.621758+00:00"
     },
     "BAJAJHFL": {
       "sl": 358,
@@ -19625,7 +19625,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BAJAJHFL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:25:56.941821+00:00"
+      "fetched_at": "2026-09-29T22:46:56.583216+00:00"
     },
     "NSLNISP": {
       "sl": 406,
@@ -19637,7 +19637,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NSLNISP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:26:03.949004+00:00"
+      "fetched_at": "2026-09-29T22:47:03.530777+00:00"
     },
     "SIGNATURE": {
       "sl": 326,
@@ -19690,7 +19690,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SIGNATURE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:26:10.926372+00:00"
+      "fetched_at": "2026-09-29T22:47:10.565256+00:00"
     },
     "DEEPAKFERT": {
       "sl": 392,
@@ -19743,7 +19743,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DEEPAKFERT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:26:17.923287+00:00"
+      "fetched_at": "2026-09-29T22:47:17.548214+00:00"
     },
     "ANURAS": {
       "sl": 417,
@@ -19796,7 +19796,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ANURAS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:26:25.103030+00:00"
+      "fetched_at": "2026-09-29T22:47:24.583715+00:00"
     },
     "SUNDARMFIN": {
       "sl": 448,
@@ -19849,7 +19849,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SUNDARMFIN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:26:32.963728+00:00"
+      "fetched_at": "2026-09-29T22:47:31.628642+00:00"
     },
     "GICRE": {
       "sl": 394,
@@ -19861,7 +19861,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GICRE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:26:39.919323+00:00"
+      "fetched_at": "2026-09-29T22:47:38.626491+00:00"
     },
     "PCBL": {
       "sl": 367,
@@ -19914,7 +19914,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=PCBL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:26:46.940016+00:00"
+      "fetched_at": "2026-09-29T22:47:45.647170+00:00"
     },
     "NTPCGREEN": {
       "sl": 402,
@@ -19935,7 +19935,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NTPCGREEN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:26:53.908941+00:00"
+      "fetched_at": "2026-09-29T22:47:52.739856+00:00"
     },
     "CANHLIFE": {
       "sl": 488,
@@ -19947,7 +19947,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CANHLIFE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:00.926325+00:00"
+      "fetched_at": "2026-09-29T22:48:00.691173+00:00"
     },
     "CONCORDBIO": {
       "sl": 387,
@@ -20000,7 +20000,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CONCORDBIO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:07.914036+00:00"
+      "fetched_at": "2026-09-29T22:48:07.793258+00:00"
     },
     "SYNGENE": {
       "sl": 423,
@@ -20053,7 +20053,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SYNGENE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:14.932376+00:00"
+      "fetched_at": "2026-09-29T22:48:15.576602+00:00"
     },
     "USHAMART": {
       "sl": 408,
@@ -20106,7 +20106,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=USHAMART&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:21.937575+00:00"
+      "fetched_at": "2026-09-29T22:48:22.637361+00:00"
     },
     "GILLETTE": {
       "sl": 335,
@@ -20159,7 +20159,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GILLETTE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:28.927085+00:00"
+      "fetched_at": "2026-09-29T22:48:29.699732+00:00"
     },
     "HOMEFIRST": {
       "sl": 413,
@@ -20212,7 +20212,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HOMEFIRST&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:36.003248+00:00"
+      "fetched_at": "2026-09-29T22:48:36.564295+00:00"
     },
     "CENTRALBK": {
       "sl": 345,
@@ -20265,7 +20265,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CENTRALBK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:42.955315+00:00"
+      "fetched_at": "2026-09-29T22:48:43.566839+00:00"
     },
     "IRCON": {
       "sl": 384,
@@ -20318,7 +20318,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IRCON&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:49.947006+00:00"
+      "fetched_at": "2026-09-29T22:48:50.598807+00:00"
     },
     "LINDEINDIA": {
       "sl": 434,
@@ -20371,7 +20371,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LINDEINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:27:56.931379+00:00"
+      "fetched_at": "2026-09-29T22:48:57.565927+00:00"
     },
     "ABREL": {
       "sl": 447,
@@ -20424,7 +20424,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ABREL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:03.932945+00:00"
+      "fetched_at": "2026-09-29T22:49:04.569341+00:00"
     },
     "LEMONTREE": {
       "sl": 404,
@@ -20477,7 +20477,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LEMONTREE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:11.012352+00:00"
+      "fetched_at": "2026-09-29T22:49:11.616444+00:00"
     },
     "ZFCVINDIA": {
       "sl": 409,
@@ -20530,7 +20530,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ZFCVINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:17.940025+00:00"
+      "fetched_at": "2026-09-29T22:49:18.550819+00:00"
     },
     "IGIL": {
       "sl": 440,
@@ -20551,7 +20551,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=IGIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:24.922812+00:00"
+      "fetched_at": "2026-09-29T22:49:25.538664+00:00"
     },
     "EIDPARRY": {
       "sl": 400,
@@ -20604,7 +20604,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=EIDPARRY&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:31.940599+00:00"
+      "fetched_at": "2026-09-29T22:49:32.546362+00:00"
     },
     "SCHNEIDER": {
       "sl": 446,
@@ -20657,7 +20657,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SCHNEIDER&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:38.922359+00:00"
+      "fetched_at": "2026-09-29T22:49:39.554133+00:00"
     },
     "TBOTEK": {
       "sl": 464,
@@ -20702,7 +20702,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TBOTEK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:45.925795+00:00"
+      "fetched_at": "2026-09-29T22:49:46.559737+00:00"
     },
     "AARTIIND": {
       "sl": 419,
@@ -20755,7 +20755,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AARTIIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:52.933153+00:00"
+      "fetched_at": "2026-09-29T22:49:53.600975+00:00"
     },
     "ATUL": {
       "sl": 407,
@@ -20808,7 +20808,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ATUL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:28:59.919615+00:00"
+      "fetched_at": "2026-09-29T22:50:00.637228+00:00"
     },
     "BRIGADE": {
       "sl": 480,
@@ -20861,7 +20861,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BRIGADE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:29:06.986091+00:00"
+      "fetched_at": "2026-09-29T22:50:07.550078+00:00"
     },
     "ENDURANCE": {
       "sl": 416,
@@ -20914,7 +20914,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ENDURANCE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:29:13.962006+00:00"
+      "fetched_at": "2026-09-29T22:50:14.570987+00:00"
     },
     "KPRMILL": {
       "sl": 461,
@@ -20967,7 +20967,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=KPRMILL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:29:20.973898+00:00"
+      "fetched_at": "2026-09-29T22:50:21.543716+00:00"
     },
     "BLS": {
       "sl": 399,
@@ -21020,7 +21020,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BLS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:29:27.936945+00:00"
+      "fetched_at": "2026-09-29T22:50:28.592007+00:00"
     },
     "CRISIL": {
       "sl": 456,
@@ -21073,7 +21073,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CRISIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:29:34.931093+00:00"
+      "fetched_at": "2026-09-29T22:50:35.610922+00:00"
     },
     "RAILTEL": {
       "sl": 432,
@@ -21126,7 +21126,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RAILTEL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:29:41.961344+00:00"
+      "fetched_at": "2026-09-29T22:50:42.684814+00:00"
     },
     "INTELLECT": {
       "sl": 435,
@@ -21179,7 +21179,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INTELLECT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:29:48.931959+00:00"
+      "fetched_at": "2026-09-29T22:50:49.596260+00:00"
     },
     "AADHARHFC": {
       "sl": 489,
@@ -21224,7 +21224,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AADHARHFC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:29:55.985088+00:00"
+      "fetched_at": "2026-09-29T22:50:56.694103+00:00"
     },
     "JUBLINGREA": {
       "sl": 452,
@@ -21277,7 +21277,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JUBLINGREA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:02.987082+00:00"
+      "fetched_at": "2026-09-29T22:51:03.563009+00:00"
     },
     "JKTYRE": {
       "sl": 427,
@@ -21330,7 +21330,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JKTYRE&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:09.972227+00:00"
+      "fetched_at": "2026-09-29T22:51:10.568127+00:00"
     },
     "ABSLAMC": {
       "sl": 477,
@@ -21367,7 +21367,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ABSLAMC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:17.056728+00:00"
+      "fetched_at": "2026-09-29T22:51:17.667524+00:00"
     },
     "ZYDUSWELL": {
       "sl": 378,
@@ -21420,7 +21420,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ZYDUSWELL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:23.969342+00:00"
+      "fetched_at": "2026-09-29T22:51:24.558981+00:00"
     },
     "TIMKEN": {
       "sl": 462,
@@ -21473,7 +21473,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TIMKEN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:30.920110+00:00"
+      "fetched_at": "2026-09-29T22:51:31.534265+00:00"
     },
     "HEGAM": {
       "sl": 410,
@@ -21526,7 +21526,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HEGAM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:37.981552+00:00"
+      "fetched_at": "2026-09-29T22:51:38.618352+00:00"
     },
     "SWANCORP": {
       "sl": 442,
@@ -21579,7 +21579,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SWANCORP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:44.932692+00:00"
+      "fetched_at": "2026-09-29T22:51:45.650869+00:00"
     },
     "HDBFS": {
       "sl": 467,
@@ -21591,7 +21591,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HDBFS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:51.943191+00:00"
+      "fetched_at": "2026-09-29T22:51:52.537217+00:00"
     },
     "CEMPRO": {
       "sl": 431,
@@ -21644,7 +21644,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CEMPRO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:30:59.076258+00:00"
+      "fetched_at": "2026-09-29T22:51:59.547949+00:00"
     },
     "CEATLTD": {
       "sl": 425,
@@ -21697,7 +21697,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CEATLTD&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:31:06.083017+00:00"
+      "fetched_at": "2026-09-29T22:52:06.540028+00:00"
     },
     "NUVOCO": {
       "sl": 473,
@@ -21750,7 +21750,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NUVOCO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:31:13.020105+00:00"
+      "fetched_at": "2026-09-29T22:52:13.558692+00:00"
     },
     "NAVA": {
       "sl": 459,
@@ -21803,7 +21803,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=NAVA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:31:20.021171+00:00"
+      "fetched_at": "2026-09-29T22:52:20.544967+00:00"
     },
     "ELGIEQUIP": {
       "sl": 460,
@@ -21856,7 +21856,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ELGIEQUIP&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:31:26.968644+00:00"
+      "fetched_at": "2026-09-29T22:52:27.711666+00:00"
     },
     "JSWCEMENT": {
       "sl": 465,
@@ -21868,7 +21868,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JSWCEMENT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:31:33.947241+00:00"
+      "fetched_at": "2026-09-29T22:52:35.728618+00:00"
     },
     "JKCEMENT": {
       "sl": 490,
@@ -21921,7 +21921,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JKCEMENT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:31:40.942277+00:00"
+      "fetched_at": "2026-09-29T22:52:43.571519+00:00"
     },
     "LTFOODS": {
       "sl": 455,
@@ -21974,7 +21974,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=LTFOODS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:31:47.938302+00:00"
+      "fetched_at": "2026-09-29T22:52:50.623052+00:00"
     },
     "AIAENG": {
       "sl": 483,
@@ -22027,7 +22027,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AIAENG&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:31:54.967697+00:00"
+      "fetched_at": "2026-09-29T22:52:57.535896+00:00"
     },
     "GLAXO": {
       "sl": 439,
@@ -22080,7 +22080,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GLAXO&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:02.009022+00:00"
+      "fetched_at": "2026-09-29T22:53:04.627996+00:00"
     },
     "UBL": {
       "sl": 395,
@@ -22133,7 +22133,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=UBL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:09.001816+00:00"
+      "fetched_at": "2026-09-29T22:53:11.570936+00:00"
     },
     "AFCONS": {
       "sl": 415,
@@ -22145,7 +22145,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AFCONS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:15.971965+00:00"
+      "fetched_at": "2026-09-29T22:53:18.593707+00:00"
     },
     "JWL": {
       "sl": 424,
@@ -22198,7 +22198,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JWL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:22.944278+00:00"
+      "fetched_at": "2026-09-29T22:53:25.538922+00:00"
     },
     "CANFINHOME": {
       "sl": 449,
@@ -22251,7 +22251,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CANFINHOME&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:30.005915+00:00"
+      "fetched_at": "2026-09-29T22:53:32.607205+00:00"
     },
     "SARDAEN": {
       "sl": 470,
@@ -22304,7 +22304,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SARDAEN&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:36.963213+00:00"
+      "fetched_at": "2026-09-29T22:53:39.758171+00:00"
     },
     "CCL": {
       "sl": 463,
@@ -22357,7 +22357,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CCL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:43.925167+00:00"
+      "fetched_at": "2026-09-29T22:53:47.629958+00:00"
     },
     "SOBHA": {
       "sl": 499,
@@ -22410,7 +22410,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SOBHA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:50.962122+00:00"
+      "fetched_at": "2026-09-29T22:53:54.771861+00:00"
     },
     "VIJAYA": {
       "sl": 471,
@@ -22463,7 +22463,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=VIJAYA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:32:57.937029+00:00"
+      "fetched_at": "2026-09-29T22:54:02.625745+00:00"
     },
     "MGL": {
       "sl": 454,
@@ -22516,7 +22516,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MGL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:33:04.915672+00:00"
+      "fetched_at": "2026-09-29T22:54:09.577716+00:00"
     },
     "JBMA": {
       "sl": 430,
@@ -22569,7 +22569,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=JBMA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:33:11.934500+00:00"
+      "fetched_at": "2026-09-29T22:54:16.623068+00:00"
     },
     "DOMS": {
       "sl": 494,
@@ -22622,7 +22622,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DOMS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:33:18.916788+00:00"
+      "fetched_at": "2026-09-29T22:54:23.612018+00:00"
     },
     "INDIAMART": {
       "sl": 478,
@@ -22675,7 +22675,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INDIAMART&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:33:25.934325+00:00"
+      "fetched_at": "2026-09-29T22:54:30.554230+00:00"
     },
     "ESCORTS": {
       "sl": 466,
@@ -22728,7 +22728,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ESCORTS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:33:32.912508+00:00"
+      "fetched_at": "2026-09-29T22:54:37.584695+00:00"
     },
     "UTIAMC": {
       "sl": 496,
@@ -22781,7 +22781,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=UTIAMC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:33:39.964057+00:00"
+      "fetched_at": "2026-09-29T22:54:44.604633+00:00"
     },
     "FSL": {
       "sl": 469,
@@ -22834,7 +22834,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=FSL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:33:46.918400+00:00"
+      "fetched_at": "2026-09-29T22:54:51.572461+00:00"
     },
     "SUMICHEM": {
       "sl": 491,
@@ -22887,7 +22887,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=SUMICHEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:33:53.970973+00:00"
+      "fetched_at": "2026-09-29T22:54:58.555742+00:00"
     },
     "UCOBANK": {
       "sl": 457,
@@ -22940,7 +22940,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=UCOBANK&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:00.931773+00:00"
+      "fetched_at": "2026-09-29T22:55:05.705888+00:00"
     },
     "AIIL": {
       "sl": 484,
@@ -22977,7 +22977,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AIIL&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:07.990103+00:00"
+      "fetched_at": "2026-09-29T22:55:13.572720+00:00"
     },
     "BATAINDIA": {
       "sl": 472,
@@ -23030,7 +23030,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=BATAINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:14.922793+00:00"
+      "fetched_at": "2026-09-29T22:55:20.597630+00:00"
     },
     "DALBHARAT": {
       "sl": 493,
@@ -23042,7 +23042,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=DALBHARAT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:21.933766+00:00"
+      "fetched_at": "2026-09-29T22:55:27.653629+00:00"
     },
     "AAVAS": {
       "sl": 485,
@@ -23095,7 +23095,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=AAVAS&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:28.914597+00:00"
+      "fetched_at": "2026-09-29T22:55:34.625269+00:00"
     },
     "CIEINDIA": {
       "sl": 474,
@@ -23148,7 +23148,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=CIEINDIA&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:35.919726+00:00"
+      "fetched_at": "2026-09-29T22:55:41.581996+00:00"
     },
     "RITES": {
       "sl": 458,
@@ -23201,7 +23201,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=RITES&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:42.937929+00:00"
+      "fetched_at": "2026-09-29T22:55:48.631351+00:00"
     },
     "HEXT": {
       "sl": 492,
@@ -23222,7 +23222,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=HEXT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:49.943840+00:00"
+      "fetched_at": "2026-09-29T22:55:55.548331+00:00"
     },
     "MMTC": {
       "sl": 482,
@@ -23275,7 +23275,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=MMTC&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:34:56.978576+00:00"
+      "fetched_at": "2026-09-29T22:56:02.657497+00:00"
     },
     "TRIDENT": {
       "sl": 481,
@@ -23328,7 +23328,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=TRIDENT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:35:03.917822+00:00"
+      "fetched_at": "2026-09-29T22:56:09.589806+00:00"
     },
     "ITI": {
       "sl": 497,
@@ -23381,7 +23381,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=ITI&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:35:10.913190+00:00"
+      "fetched_at": "2026-09-29T22:56:16.559457+00:00"
     },
     "GODREJIND": {
       "sl": 500,
@@ -23393,7 +23393,7 @@
       "periods": [],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GODREJIND&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:35:17.934993+00:00"
+      "fetched_at": "2026-09-29T22:56:23.584221+00:00"
     },
     "INDIACEM": {
       "sl": 498,
@@ -23446,7 +23446,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=INDIACEM&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:35:24.919095+00:00"
+      "fetched_at": "2026-09-29T22:56:30.548439+00:00"
     },
     "GALLANTT": {
       "sl": 501,
@@ -23499,7 +23499,7 @@
       ],
       "source": "NSE India",
       "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results?symbol=GALLANTT&tabIndex=equity",
-      "fetched_at": "2026-09-29T13:35:31.936213+00:00"
+      "fetched_at": "2026-09-29T22:56:37.586745+00:00"
     }
   },
   "stats": {
